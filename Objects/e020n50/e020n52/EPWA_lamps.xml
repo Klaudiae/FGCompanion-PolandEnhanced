@@ -1,0 +1,1485 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+   <path>EPWA_lamps.ac</path>
+
+<animation>
+		<type>material</type>
+    <object-name>Light2</object-name>
+		<transparency>
+			<alpha-prop>environment/visibility-m</alpha-prop>
+			<factor>1</factor>
+			<offset>0</offset>
+			</transparency>
+		<threshold>0.001</threshold>
+	</animation>
+
+  <animation>
+    <type>select</type>
+    <object-name>Light1</object-name>
+    <object-name>Light2</object-name>
+    <object-name>Light3</object-name>
+    <enable-hot type="bool">false</enable-hot>
+    <condition>
+        <greater-than>
+          <property>/sim/time/sun-angle-rad</property>
+          <value>1.57</value>
+        </greater-than>
+    </condition>
+  </animation>
+	   
+	  <animation>
+		<type>material</type>
+  <object-name>Light2.001</object-name>
+		<transparency>
+			<alpha-prop>environment/visibility-m</alpha-prop>
+			<factor>1</factor>
+			<offset>0</offset>
+			</transparency>
+		<threshold>0.001</threshold>
+	</animation>
+
+  <animation>
+    <type>select</type>
+    <object-name>Light1.001</object-name>
+    <object-name>Light2.001</object-name>
+    <object-name>Light3.001</object-name>
+    <enable-hot type="bool">false</enable-hot>
+    <condition>
+        <greater-than>
+          <property>/sim/time/sun-angle-rad</property>
+          <value>1.57</value>
+        </greater-than>
+    </condition>
+  </animation> 
+   
+	  <animation>
+		<type>material</type>
+    <object-name>Light2.002</object-name>
+		<transparency>
+			<alpha-prop>environment/visibility-m</alpha-prop>
+			<factor>1</factor>
+			<offset>0</offset>
+			</transparency>
+		<threshold>0.001</threshold>
+	</animation>
+
+  <animation>
+    <type>select</type>
+    <object-name>Light1.002</object-name>
+    <object-name>Light2.002</object-name>
+    <object-name>Light3.002</object-name>
+    <enable-hot type="bool">false</enable-hot>
+    <condition>
+        <greater-than>
+          <property>/sim/time/sun-angle-rad</property>
+          <value>1.57</value>
+        </greater-than>
+    </condition>
+  </animation> 
+   
+	  <animation>
+		<type>material</type>
+   <object-name>Light2.003</object-name>
+		<transparency>
+			<alpha-prop>environment/visibility-m</alpha-prop>
+			<factor>1</factor>
+			<offset>0</offset>
+			</transparency>
+		<threshold>0.001</threshold>
+	</animation>
+
+  <animation>
+    <type>select</type>
+    <object-name>Light1.003</object-name>
+    <object-name>Light2.003</object-name>
+    <object-name>Light3.003</object-name>
+    <enable-hot type="bool">false</enable-hot>
+    <condition>
+        <greater-than>
+          <property>/sim/time/sun-angle-rad</property>
+          <value>1.57</value>
+        </greater-than>
+    </condition>
+  </animation> 
+   
+   	  <animation>
+		<type>material</type>
+    <object-name>Light2.004</object-name>
+		<transparency>
+			<alpha-prop>environment/visibility-m</alpha-prop>
+			<factor>1</factor>
+			<offset>0</offset>
+			</transparency>
+		<threshold>0.001</threshold>
+	</animation>
+
+  <animation>
+    <type>select</type>
+    <object-name>Light1.004</object-name>
+    <object-name>Light2.004</object-name>
+    <object-name>Light3.004</object-name>
+    <enable-hot type="bool">false</enable-hot>
+    <condition>
+        <greater-than>
+          <property>/sim/time/sun-angle-rad</property>
+          <value>1.57</value>
+        </greater-than>
+    </condition>
+  </animation> 
+   
+   	  <animation>
+		<type>material</type>
+<object-name>Light2.005</object-name>
+		<transparency>
+			<alpha-prop>environment/visibility-m</alpha-prop>
+			<factor>1</factor>
+			<offset>0</offset>
+			</transparency>
+		<threshold>0.001</threshold>
+	</animation>
+
+  <animation>
+    <type>select</type>
+    <object-name>Light1.005</object-name>
+    <object-name>Light2.005</object-name>
+    <object-name>Light3.005</object-name>
+    <enable-hot type="bool">false</enable-hot>
+    <condition>
+        <greater-than>
+          <property>/sim/time/sun-angle-rad</property>
+          <value>1.57</value>
+        </greater-than>
+    </condition>
+  </animation> 
+   
+    	  <animation>
+		<type>material</type>
+    <object-name>Light2.006</object-name>
+		<transparency>
+			<alpha-prop>environment/visibility-m</alpha-prop>
+			<factor>1</factor>
+			<offset>0</offset>
+			</transparency>
+		<threshold>0.001</threshold>
+	</animation>
+
+  <animation>
+    <type>select</type>
+    <object-name>Light1.006</object-name>
+    <object-name>Light2.006</object-name>
+    <object-name>Light3.006</object-name>
+    <enable-hot type="bool">false</enable-hot>
+    <condition>
+        <greater-than>
+          <property>/sim/time/sun-angle-rad</property>
+          <value>1.57</value>
+        </greater-than>
+    </condition>
+  </animation> 
+ 
+    	  <animation>
+		<type>material</type>
+    <object-name>Light2.007</object-name>
+		<transparency>
+			<alpha-prop>environment/visibility-m</alpha-prop>
+			<factor>1</factor>
+			<offset>0</offset>
+			</transparency>
+		<threshold>0.001</threshold>
+	</animation>
+
+  <animation>
+    <type>select</type>
+    <object-name>Light1.007</object-name>
+    <object-name>Light2.007</object-name>
+    <object-name>Light3.007</object-name>
+    <enable-hot type="bool">false</enable-hot>
+    <condition>
+        <greater-than>
+          <property>/sim/time/sun-angle-rad</property>
+          <value>1.57</value>
+        </greater-than>
+    </condition>
+  </animation> 
+ 
+    	  <animation>
+		<type>material</type>
+    <object-name>Light2.008</object-name>
+		<transparency>
+			<alpha-prop>environment/visibility-m</alpha-prop>
+			<factor>1</factor>
+			<offset>0</offset>
+			</transparency>
+		<threshold>0.001</threshold>
+	</animation>
+
+  <animation>
+    <type>select</type>
+    <object-name>Light1.008</object-name>
+    <object-name>Light2.008</object-name>
+    <object-name>Light3.008</object-name>
+    <enable-hot type="bool">false</enable-hot>
+    <condition>
+        <greater-than>
+          <property>/sim/time/sun-angle-rad</property>
+          <value>1.57</value>
+        </greater-than>
+    </condition>
+  </animation> 
+ 
+     	  <animation>
+		<type>material</type>
+    <object-name>Light2.009</object-name>
+		<transparency>
+			<alpha-prop>environment/visibility-m</alpha-prop>
+			<factor>1</factor>
+			<offset>0</offset>
+			</transparency>
+		<threshold>0.001</threshold>
+	</animation>
+
+  <animation>
+    <type>select</type>
+    <object-name>Light1.009</object-name>
+    <object-name>Light2.009</object-name>
+    <object-name>Light3.009</object-name>
+    <enable-hot type="bool">false</enable-hot>
+    <condition>
+        <greater-than>
+          <property>/sim/time/sun-angle-rad</property>
+          <value>1.57</value>
+        </greater-than>
+    </condition>
+  </animation> 
+
+  
+       	  <animation>
+		<type>material</type>
+    <object-name>Light2.010</object-name>
+		<transparency>
+			<alpha-prop>environment/visibility-m</alpha-prop>
+			<factor>1</factor>
+			<offset>0</offset>
+			</transparency>
+		<threshold>0.001</threshold>
+	</animation>
+
+  <animation>
+    <type>select</type>
+    <object-name>Light1.010</object-name>
+    <object-name>Light2.010</object-name>
+    <object-name>Light3.010</object-name>
+    <enable-hot type="bool">false</enable-hot>
+    <condition>
+        <greater-than>
+          <property>/sim/time/sun-angle-rad</property>
+          <value>1.57</value>
+        </greater-than>
+    </condition>
+  </animation> 
+
+         	  <animation>
+		<type>material</type>
+    <object-name>Light2.011</object-name>
+		<transparency>
+			<alpha-prop>environment/visibility-m</alpha-prop>
+			<factor>1</factor>
+			<offset>0</offset>
+			</transparency>
+		<threshold>0.001</threshold>
+	</animation>
+
+  <animation>
+    <type>select</type>
+    <object-name>Light1.011</object-name>
+    <object-name>Light2.011</object-name>
+    <object-name>Light3.011</object-name>
+    <enable-hot type="bool">false</enable-hot>
+    <condition>
+        <greater-than>
+          <property>/sim/time/sun-angle-rad</property>
+          <value>1.57</value>
+        </greater-than>
+    </condition>
+  </animation> 
+  
+         	  <animation>
+		<type>material</type>
+    <object-name>Light2.012</object-name>
+		<transparency>
+			<alpha-prop>environment/visibility-m</alpha-prop>
+			<factor>1</factor>
+			<offset>0</offset>
+			</transparency>
+		<threshold>0.001</threshold>
+	</animation>
+
+  <animation>
+    <type>select</type>
+    <object-name>Light1.012</object-name>
+    <object-name>Light2.012</object-name>
+    <object-name>Light3.012</object-name>
+    <enable-hot type="bool">false</enable-hot>
+    <condition>
+        <greater-than>
+          <property>/sim/time/sun-angle-rad</property>
+          <value>1.57</value>
+        </greater-than>
+    </condition>
+  </animation> 
+  
+  
+         	  <animation>
+		<type>material</type>
+    <object-name>Light2.013</object-name>
+		<transparency>
+			<alpha-prop>environment/visibility-m</alpha-prop>
+			<factor>1</factor>
+			<offset>0</offset>
+			</transparency>
+		<threshold>0.001</threshold>
+	</animation>
+
+  <animation>
+    <type>select</type>
+    <object-name>Light1.013</object-name>
+    <object-name>Light2.013</object-name>
+    <object-name>Light3.013</object-name>
+    <enable-hot type="bool">false</enable-hot>
+    <condition>
+        <greater-than>
+          <property>/sim/time/sun-angle-rad</property>
+          <value>1.57</value>
+        </greater-than>
+    </condition>
+  </animation> 
+
+         	  <animation>
+		<type>material</type>
+    <object-name>Light2.014</object-name>
+		<transparency>
+			<alpha-prop>environment/visibility-m</alpha-prop>
+			<factor>1</factor>
+			<offset>0</offset>
+			</transparency>
+		<threshold>0.001</threshold>
+	</animation>
+
+  <animation>
+    <type>select</type>
+    <object-name>Light1.014</object-name>
+    <object-name>Light2.014</object-name>
+    <object-name>Light3.014</object-name>
+    <enable-hot type="bool">false</enable-hot>
+    <condition>
+        <greater-than>
+          <property>/sim/time/sun-angle-rad</property>
+          <value>1.57</value>
+        </greater-than>
+    </condition>
+  </animation> 
+
+         	  <animation>
+		<type>material</type>
+    <object-name>Light2.015</object-name>
+		<transparency>
+			<alpha-prop>environment/visibility-m</alpha-prop>
+			<factor>1</factor>
+			<offset>0</offset>
+			</transparency>
+		<threshold>0.001</threshold>
+	</animation>
+
+  <animation>
+    <type>select</type>
+    <object-name>Light1.015</object-name>
+    <object-name>Light2.015</object-name>
+    <object-name>Light3.015</object-name>
+    <enable-hot type="bool">false</enable-hot>
+    <condition>
+        <greater-than>
+          <property>/sim/time/sun-angle-rad</property>
+          <value>1.57</value>
+        </greater-than>
+    </condition>
+  </animation> 
+
+         	  <animation>
+		<type>material</type>
+    <object-name>Light2.016</object-name>
+		<transparency>
+			<alpha-prop>environment/visibility-m</alpha-prop>
+			<factor>1</factor>
+			<offset>0</offset>
+			</transparency>
+		<threshold>0.001</threshold>
+	</animation>
+
+  <animation>
+    <type>select</type>
+    <object-name>Light1.016</object-name>
+    <object-name>Light2.016</object-name>
+    <object-name>Light3.016</object-name>
+    <enable-hot type="bool">false</enable-hot>
+    <condition>
+        <greater-than>
+          <property>/sim/time/sun-angle-rad</property>
+          <value>1.57</value>
+        </greater-than>
+    </condition>
+  </animation> 
+
+         	  <animation>
+		<type>material</type>
+    <object-name>Light2.017</object-name>
+		<transparency>
+			<alpha-prop>environment/visibility-m</alpha-prop>
+			<factor>1</factor>
+			<offset>0</offset>
+			</transparency>
+		<threshold>0.001</threshold>
+	</animation>
+
+  <animation>
+    <type>select</type>
+    <object-name>Light1.017</object-name>
+    <object-name>Light2.017</object-name>
+    <object-name>Light3.017</object-name>
+    <enable-hot type="bool">false</enable-hot>
+    <condition>
+        <greater-than>
+          <property>/sim/time/sun-angle-rad</property>
+          <value>1.57</value>
+        </greater-than>
+    </condition>
+  </animation> 
+
+         	  <animation>
+		<type>material</type>
+    <object-name>Light2.018</object-name>
+		<transparency>
+			<alpha-prop>environment/visibility-m</alpha-prop>
+			<factor>1</factor>
+			<offset>0</offset>
+			</transparency>
+		<threshold>0.001</threshold>
+	</animation>
+
+  <animation>
+    <type>select</type>
+    <object-name>Light1.018</object-name>
+    <object-name>Light2.018</object-name>
+    <object-name>Light3.018</object-name>
+    <enable-hot type="bool">false</enable-hot>
+    <condition>
+        <greater-than>
+          <property>/sim/time/sun-angle-rad</property>
+          <value>1.57</value>
+        </greater-than>
+    </condition>
+  </animation> 
+
+         	  <animation>
+		<type>material</type>
+    <object-name>Light2.019</object-name>
+		<transparency>
+			<alpha-prop>environment/visibility-m</alpha-prop>
+			<factor>1</factor>
+			<offset>0</offset>
+			</transparency>
+		<threshold>0.001</threshold>
+	</animation>
+
+  <animation>
+    <type>select</type>
+    <object-name>Light1.019</object-name>
+    <object-name>Light2.019</object-name>
+    <object-name>Light3.019</object-name>
+    <enable-hot type="bool">false</enable-hot>
+    <condition>
+        <greater-than>
+          <property>/sim/time/sun-angle-rad</property>
+          <value>1.57</value>
+        </greater-than>
+    </condition>
+  </animation> 
+
+           	  <animation>
+		<type>material</type>
+    <object-name>Light2.020</object-name>
+		<transparency>
+			<alpha-prop>environment/visibility-m</alpha-prop>
+			<factor>1</factor>
+			<offset>0</offset>
+			</transparency>
+		<threshold>0.001</threshold>
+	</animation>
+
+  <animation>
+    <type>select</type>
+    <object-name>Light1.020</object-name>
+    <object-name>Light2.020</object-name>
+    <object-name>Light3.020</object-name>
+    <enable-hot type="bool">false</enable-hot>
+    <condition>
+        <greater-than>
+          <property>/sim/time/sun-angle-rad</property>
+          <value>1.57</value>
+        </greater-than>
+    </condition>
+  </animation> 
+  
+
+         	  <animation>
+		<type>material</type>
+    <object-name>Light2.021</object-name>
+		<transparency>
+			<alpha-prop>environment/visibility-m</alpha-prop>
+			<factor>1</factor>
+			<offset>0</offset>
+			</transparency>
+		<threshold>0.001</threshold>
+	</animation>
+
+  <animation>
+    <type>select</type>
+    <object-name>Light1.021</object-name>
+    <object-name>Light2.021</object-name>
+    <object-name>Light3.021</object-name>
+    <enable-hot type="bool">false</enable-hot>
+    <condition>
+        <greater-than>
+          <property>/sim/time/sun-angle-rad</property>
+          <value>1.57</value>
+        </greater-than>
+    </condition>
+  </animation> 
+  
+         	  <animation>
+		<type>material</type>
+    <object-name>Light2.022</object-name>
+		<transparency>
+			<alpha-prop>environment/visibility-m</alpha-prop>
+			<factor>1</factor>
+			<offset>0</offset>
+			</transparency>
+		<threshold>0.001</threshold>
+	</animation>
+
+  <animation>
+    <type>select</type>
+    <object-name>Light1.022</object-name>
+    <object-name>Light2.022</object-name>
+    <object-name>Light3.022</object-name>
+    <enable-hot type="bool">false</enable-hot>
+    <condition>
+        <greater-than>
+          <property>/sim/time/sun-angle-rad</property>
+          <value>1.57</value>
+        </greater-than>
+    </condition>
+  </animation> 
+  
+  
+         	  <animation>
+		<type>material</type>
+    <object-name>Light2.023</object-name>
+		<transparency>
+			<alpha-prop>environment/visibility-m</alpha-prop>
+			<factor>1</factor>
+			<offset>0</offset>
+			</transparency>
+		<threshold>0.001</threshold>
+	</animation>
+
+  <animation>
+    <type>select</type>
+    <object-name>Light1.023</object-name>
+    <object-name>Light2.023</object-name>
+    <object-name>Light3.023</object-name>
+    <enable-hot type="bool">false</enable-hot>
+    <condition>
+        <greater-than>
+          <property>/sim/time/sun-angle-rad</property>
+          <value>1.57</value>
+        </greater-than>
+    </condition>
+  </animation> 
+
+         	  <animation>
+		<type>material</type>
+    <object-name>Light2.024</object-name>
+		<transparency>
+			<alpha-prop>environment/visibility-m</alpha-prop>
+			<factor>1</factor>
+			<offset>0</offset>
+			</transparency>
+		<threshold>0.001</threshold>
+	</animation>
+
+  <animation>
+    <type>select</type>
+    <object-name>Light1.024</object-name>
+    <object-name>Light2.024</object-name>
+    <object-name>Light3.024</object-name>
+    <enable-hot type="bool">false</enable-hot>
+    <condition>
+        <greater-than>
+          <property>/sim/time/sun-angle-rad</property>
+          <value>1.57</value>
+        </greater-than>
+    </condition>
+  </animation> 
+
+         	  <animation>
+		<type>material</type>
+    <object-name>Light2.025</object-name>
+		<transparency>
+			<alpha-prop>environment/visibility-m</alpha-prop>
+			<factor>1</factor>
+			<offset>0</offset>
+			</transparency>
+		<threshold>0.001</threshold>
+	</animation>
+
+  <animation>
+    <type>select</type>
+    <object-name>Light1.025</object-name>
+    <object-name>Light2.025</object-name>
+    <object-name>Light3.025</object-name>
+    <enable-hot type="bool">false</enable-hot>
+    <condition>
+        <greater-than>
+          <property>/sim/time/sun-angle-rad</property>
+          <value>1.57</value>
+        </greater-than>
+    </condition>
+  </animation> 
+
+         	  <animation>
+		<type>material</type>
+    <object-name>Light2.026</object-name>
+		<transparency>
+			<alpha-prop>environment/visibility-m</alpha-prop>
+			<factor>1</factor>
+			<offset>0</offset>
+			</transparency>
+		<threshold>0.001</threshold>
+	</animation>
+
+  <animation>
+    <type>select</type>
+    <object-name>Light1.026</object-name>
+    <object-name>Light2.026</object-name>
+    <object-name>Light3.026</object-name>
+    <enable-hot type="bool">false</enable-hot>
+    <condition>
+        <greater-than>
+          <property>/sim/time/sun-angle-rad</property>
+          <value>1.57</value>
+        </greater-than>
+    </condition>
+  </animation> 
+
+         	  <animation>
+		<type>material</type>
+    <object-name>Light2.027</object-name>
+		<transparency>
+			<alpha-prop>environment/visibility-m</alpha-prop>
+			<factor>1</factor>
+			<offset>0</offset>
+			</transparency>
+		<threshold>0.001</threshold>
+	</animation>
+
+  <animation>
+    <type>select</type>
+    <object-name>Light1.027</object-name>
+    <object-name>Light2.027</object-name>
+    <object-name>Light3.027</object-name>
+    <enable-hot type="bool">false</enable-hot>
+    <condition>
+        <greater-than>
+          <property>/sim/time/sun-angle-rad</property>
+          <value>1.57</value>
+        </greater-than>
+    </condition>
+  </animation> 
+
+         	  <animation>
+		<type>material</type>
+    <object-name>Light2.028</object-name>
+		<transparency>
+			<alpha-prop>environment/visibility-m</alpha-prop>
+			<factor>1</factor>
+			<offset>0</offset>
+			</transparency>
+		<threshold>0.001</threshold>
+	</animation>
+
+  <animation>
+    <type>select</type>
+    <object-name>Light1.028</object-name>
+    <object-name>Light2.028</object-name>
+    <object-name>Light3.028</object-name>
+    <enable-hot type="bool">false</enable-hot>
+    <condition>
+        <greater-than>
+          <property>/sim/time/sun-angle-rad</property>
+          <value>1.57</value>
+        </greater-than>
+    </condition>
+  </animation> 
+
+         	  <animation>
+		<type>material</type>
+    <object-name>Light2.029</object-name>
+		<transparency>
+			<alpha-prop>environment/visibility-m</alpha-prop>
+			<factor>1</factor>
+			<offset>0</offset>
+			</transparency>
+		<threshold>0.001</threshold>
+	</animation>
+
+  <animation>
+    <type>select</type>
+    <object-name>Light1.029</object-name>
+    <object-name>Light2.029</object-name>
+    <object-name>Light3.029</object-name>
+    <enable-hot type="bool">false</enable-hot>
+    <condition>
+        <greater-than>
+          <property>/sim/time/sun-angle-rad</property>
+          <value>1.57</value>
+        </greater-than>
+    </condition>
+  </animation> 
+
+           	  <animation>
+		<type>material</type>
+    <object-name>Light2.030</object-name>
+		<transparency>
+			<alpha-prop>environment/visibility-m</alpha-prop>
+			<factor>1</factor>
+			<offset>0</offset>
+			</transparency>
+		<threshold>0.001</threshold>
+	</animation>
+
+  <animation>
+    <type>select</type>
+    <object-name>Light1.030</object-name>
+    <object-name>Light2.030</object-name>
+    <object-name>Light3.030</object-name>
+    <enable-hot type="bool">false</enable-hot>
+    <condition>
+        <greater-than>
+          <property>/sim/time/sun-angle-rad</property>
+          <value>1.57</value>
+        </greater-than>
+    </condition>
+  </animation> 
+  
+           	  <animation>
+		<type>material</type>
+    <object-name>Light2.031</object-name>
+		<transparency>
+			<alpha-prop>environment/visibility-m</alpha-prop>
+			<factor>1</factor>
+			<offset>0</offset>
+			</transparency>
+		<threshold>0.001</threshold>
+	</animation>
+
+  <animation>
+    <type>select</type>
+    <object-name>Light1.031</object-name>
+    <object-name>Light2.031</object-name>
+    <object-name>Light3.031</object-name>
+    <enable-hot type="bool">false</enable-hot>
+    <condition>
+        <greater-than>
+          <property>/sim/time/sun-angle-rad</property>
+          <value>1.57</value>
+        </greater-than>
+    </condition>
+  </animation> 
+  
+         	  <animation>
+		<type>material</type>
+    <object-name>Light2.032</object-name>
+		<transparency>
+			<alpha-prop>environment/visibility-m</alpha-prop>
+			<factor>1</factor>
+			<offset>0</offset>
+			</transparency>
+		<threshold>0.001</threshold>
+	</animation>
+
+  <animation>
+    <type>select</type>
+    <object-name>Light1.032</object-name>
+    <object-name>Light2.032</object-name>
+    <object-name>Light3.032</object-name>
+    <enable-hot type="bool">false</enable-hot>
+    <condition>
+        <greater-than>
+          <property>/sim/time/sun-angle-rad</property>
+          <value>1.57</value>
+        </greater-than>
+    </condition>
+  </animation> 
+  
+  
+         	  <animation>
+		<type>material</type>
+    <object-name>Light2.033</object-name>
+		<transparency>
+			<alpha-prop>environment/visibility-m</alpha-prop>
+			<factor>1</factor>
+			<offset>0</offset>
+			</transparency>
+		<threshold>0.001</threshold>
+	</animation>
+
+  <animation>
+    <type>select</type>
+    <object-name>Light1.033</object-name>
+    <object-name>Light2.033</object-name>
+    <object-name>Light3.033</object-name>
+    <enable-hot type="bool">false</enable-hot>
+    <condition>
+        <greater-than>
+          <property>/sim/time/sun-angle-rad</property>
+          <value>1.57</value>
+        </greater-than>
+    </condition>
+  </animation> 
+
+         	  <animation>
+		<type>material</type>
+    <object-name>Light2.034</object-name>
+		<transparency>
+			<alpha-prop>environment/visibility-m</alpha-prop>
+			<factor>1</factor>
+			<offset>0</offset>
+			</transparency>
+		<threshold>0.001</threshold>
+	</animation>
+
+  <animation>
+    <type>select</type>
+    <object-name>Light1.034</object-name>
+    <object-name>Light2.034</object-name>
+    <object-name>Light3.034</object-name>
+    <enable-hot type="bool">false</enable-hot>
+    <condition>
+        <greater-than>
+          <property>/sim/time/sun-angle-rad</property>
+          <value>1.57</value>
+        </greater-than>
+    </condition>
+  </animation> 
+
+         	  <animation>
+		<type>material</type>
+    <object-name>Light2.035</object-name>
+		<transparency>
+			<alpha-prop>environment/visibility-m</alpha-prop>
+			<factor>1</factor>
+			<offset>0</offset>
+			</transparency>
+		<threshold>0.001</threshold>
+	</animation>
+
+  <animation>
+    <type>select</type>
+    <object-name>Light1.035</object-name>
+    <object-name>Light2.035</object-name>
+    <object-name>Light3.035</object-name>
+    <enable-hot type="bool">false</enable-hot>
+    <condition>
+        <greater-than>
+          <property>/sim/time/sun-angle-rad</property>
+          <value>1.57</value>
+        </greater-than>
+    </condition>
+  </animation> 
+
+         	  <animation>
+		<type>material</type>
+    <object-name>Light2.036</object-name>
+		<transparency>
+			<alpha-prop>environment/visibility-m</alpha-prop>
+			<factor>1</factor>
+			<offset>0</offset>
+			</transparency>
+		<threshold>0.001</threshold>
+	</animation>
+
+  <animation>
+    <type>select</type>
+    <object-name>Light1.036</object-name>
+    <object-name>Light2.036</object-name>
+    <object-name>Light3.036</object-name>
+    <enable-hot type="bool">false</enable-hot>
+    <condition>
+        <greater-than>
+          <property>/sim/time/sun-angle-rad</property>
+          <value>1.57</value>
+        </greater-than>
+    </condition>
+  </animation> 
+
+         	  <animation>
+		<type>material</type>
+    <object-name>Light2.037</object-name>
+		<transparency>
+			<alpha-prop>environment/visibility-m</alpha-prop>
+			<factor>1</factor>
+			<offset>0</offset>
+			</transparency>
+		<threshold>0.001</threshold>
+	</animation>
+
+  <animation>
+    <type>select</type>
+    <object-name>Light1.037</object-name>
+    <object-name>Light2.037</object-name>
+    <object-name>Light3.037</object-name>
+    <enable-hot type="bool">false</enable-hot>
+    <condition>
+        <greater-than>
+          <property>/sim/time/sun-angle-rad</property>
+          <value>1.57</value>
+        </greater-than>
+    </condition>
+  </animation> 
+
+         	  <animation>
+		<type>material</type>
+    <object-name>Light2.038</object-name>
+		<transparency>
+			<alpha-prop>environment/visibility-m</alpha-prop>
+			<factor>1</factor>
+			<offset>0</offset>
+			</transparency>
+		<threshold>0.001</threshold>
+	</animation>
+
+  <animation>
+    <type>select</type>
+    <object-name>Light1.038</object-name>
+    <object-name>Light2.038</object-name>
+    <object-name>Light3.038</object-name>
+    <enable-hot type="bool">false</enable-hot>
+    <condition>
+        <greater-than>
+          <property>/sim/time/sun-angle-rad</property>
+          <value>1.57</value>
+        </greater-than>
+    </condition>
+  </animation> 
+
+         	  <animation>
+		<type>material</type>
+    <object-name>Light2.039</object-name>
+		<transparency>
+			<alpha-prop>environment/visibility-m</alpha-prop>
+			<factor>1</factor>
+			<offset>0</offset>
+			</transparency>
+		<threshold>0.001</threshold>
+	</animation>
+
+  <animation>
+    <type>select</type>
+    <object-name>Light1.039</object-name>
+    <object-name>Light2.039</object-name>
+    <object-name>Light3.039</object-name>
+    <enable-hot type="bool">false</enable-hot>
+    <condition>
+        <greater-than>
+          <property>/sim/time/sun-angle-rad</property>
+          <value>1.57</value>
+        </greater-than>
+    </condition>
+  </animation> 
+
+           	  <animation>
+		<type>material</type>
+    <object-name>Light2.040</object-name>
+		<transparency>
+			<alpha-prop>environment/visibility-m</alpha-prop>
+			<factor>1</factor>
+			<offset>0</offset>
+			</transparency>
+		<threshold>0.001</threshold>
+	</animation>
+
+  <animation>
+    <type>select</type>
+    <object-name>Light1.040</object-name>
+    <object-name>Light2.040</object-name>
+    <object-name>Light3.040</object-name>
+    <enable-hot type="bool">false</enable-hot>
+    <condition>
+        <greater-than>
+          <property>/sim/time/sun-angle-rad</property>
+          <value>1.57</value>
+        </greater-than>
+    </condition>
+  </animation> 
+  
+  
+           	  <animation>
+		<type>material</type>
+    <object-name>Light2.041</object-name>
+		<transparency>
+			<alpha-prop>environment/visibility-m</alpha-prop>
+			<factor>1</factor>
+			<offset>0</offset>
+			</transparency>
+		<threshold>0.001</threshold>
+	</animation>
+
+  <animation>
+    <type>select</type>
+    <object-name>Light1.041</object-name>
+    <object-name>Light2.041</object-name>
+    <object-name>Light3.041</object-name>
+    <enable-hot type="bool">false</enable-hot>
+    <condition>
+        <greater-than>
+          <property>/sim/time/sun-angle-rad</property>
+          <value>1.57</value>
+        </greater-than>
+    </condition>
+  </animation> 
+  
+         	  <animation>
+		<type>material</type>
+    <object-name>Light2.042</object-name>
+		<transparency>
+			<alpha-prop>environment/visibility-m</alpha-prop>
+			<factor>1</factor>
+			<offset>0</offset>
+			</transparency>
+		<threshold>0.001</threshold>
+	</animation>
+
+  <animation>
+    <type>select</type>
+    <object-name>Light1.042</object-name>
+    <object-name>Light2.042</object-name>
+    <object-name>Light3.042</object-name>
+    <enable-hot type="bool">false</enable-hot>
+    <condition>
+        <greater-than>
+          <property>/sim/time/sun-angle-rad</property>
+          <value>1.57</value>
+        </greater-than>
+    </condition>
+  </animation> 
+  
+  
+         	  <animation>
+		<type>material</type>
+    <object-name>Light2.043</object-name>
+		<transparency>
+			<alpha-prop>environment/visibility-m</alpha-prop>
+			<factor>1</factor>
+			<offset>0</offset>
+			</transparency>
+		<threshold>0.001</threshold>
+	</animation>
+
+  <animation>
+    <type>select</type>
+    <object-name>Light1.043</object-name>
+    <object-name>Light2.043</object-name>
+    <object-name>Light3.043</object-name>
+    <enable-hot type="bool">false</enable-hot>
+    <condition>
+        <greater-than>
+          <property>/sim/time/sun-angle-rad</property>
+          <value>1.57</value>
+        </greater-than>
+    </condition>
+  </animation> 
+
+         	  <animation>
+		<type>material</type>
+    <object-name>Light2.044</object-name>
+		<transparency>
+			<alpha-prop>environment/visibility-m</alpha-prop>
+			<factor>1</factor>
+			<offset>0</offset>
+			</transparency>
+		<threshold>0.001</threshold>
+	</animation>
+
+  <animation>
+    <type>select</type>
+    <object-name>Light1.044</object-name>
+    <object-name>Light2.044</object-name>
+    <object-name>Light3.044</object-name>
+    <enable-hot type="bool">false</enable-hot>
+    <condition>
+        <greater-than>
+          <property>/sim/time/sun-angle-rad</property>
+          <value>1.57</value>
+        </greater-than>
+    </condition>
+  </animation> 
+
+         	  <animation>
+		<type>material</type>
+    <object-name>Light2.045</object-name>
+		<transparency>
+			<alpha-prop>environment/visibility-m</alpha-prop>
+			<factor>1</factor>
+			<offset>0</offset>
+			</transparency>
+		<threshold>0.001</threshold>
+	</animation>
+
+  <animation>
+    <type>select</type>
+    <object-name>Light1.045</object-name>
+    <object-name>Light2.045</object-name>
+    <object-name>Light3.045</object-name>
+    <enable-hot type="bool">false</enable-hot>
+    <condition>
+        <greater-than>
+          <property>/sim/time/sun-angle-rad</property>
+          <value>1.57</value>
+        </greater-than>
+    </condition>
+  </animation> 
+
+         	  <animation>
+		<type>material</type>
+    <object-name>Light2.046</object-name>
+		<transparency>
+			<alpha-prop>environment/visibility-m</alpha-prop>
+			<factor>1</factor>
+			<offset>0</offset>
+			</transparency>
+		<threshold>0.001</threshold>
+	</animation>
+
+  <animation>
+    <type>select</type>
+    <object-name>Light1.046</object-name>
+    <object-name>Light2.046</object-name>
+    <object-name>Light3.046</object-name>
+    <enable-hot type="bool">false</enable-hot>
+    <condition>
+        <greater-than>
+          <property>/sim/time/sun-angle-rad</property>
+          <value>1.57</value>
+        </greater-than>
+    </condition>
+  </animation> 
+
+         	  <animation>
+		<type>material</type>
+    <object-name>Light2.047</object-name>
+		<transparency>
+			<alpha-prop>environment/visibility-m</alpha-prop>
+			<factor>1</factor>
+			<offset>0</offset>
+			</transparency>
+		<threshold>0.001</threshold>
+	</animation>
+
+  <animation>
+    <type>select</type>
+    <object-name>Light1.047</object-name>
+    <object-name>Light2.047</object-name>
+    <object-name>Light3.047</object-name>
+    <enable-hot type="bool">false</enable-hot>
+    <condition>
+        <greater-than>
+          <property>/sim/time/sun-angle-rad</property>
+          <value>1.57</value>
+        </greater-than>
+    </condition>
+  </animation> 
+
+         	  <animation>
+		<type>material</type>
+    <object-name>Light2.048</object-name>
+		<transparency>
+			<alpha-prop>environment/visibility-m</alpha-prop>
+			<factor>1</factor>
+			<offset>0</offset>
+			</transparency>
+		<threshold>0.001</threshold>
+	</animation>
+
+  <animation>
+    <type>select</type>
+    <object-name>Light1.048</object-name>
+    <object-name>Light2.048</object-name>
+    <object-name>Light3.048</object-name>
+    <enable-hot type="bool">false</enable-hot>
+    <condition>
+        <greater-than>
+          <property>/sim/time/sun-angle-rad</property>
+          <value>1.57</value>
+        </greater-than>
+    </condition>
+  </animation> 
+
+         	  <animation>
+		<type>material</type>
+    <object-name>Light2.049</object-name>
+		<transparency>
+			<alpha-prop>environment/visibility-m</alpha-prop>
+			<factor>1</factor>
+			<offset>0</offset>
+			</transparency>
+		<threshold>0.001</threshold>
+	</animation>
+
+  <animation>
+    <type>select</type>
+    <object-name>Light1.049</object-name>
+    <object-name>Light2.049</object-name>
+    <object-name>Light3.049</object-name>
+    <enable-hot type="bool">false</enable-hot>
+    <condition>
+        <greater-than>
+          <property>/sim/time/sun-angle-rad</property>
+          <value>1.57</value>
+        </greater-than>
+    </condition>
+  </animation> 
+
+           	  <animation>
+		<type>material</type>
+    <object-name>Light2.050</object-name>
+		<transparency>
+			<alpha-prop>environment/visibility-m</alpha-prop>
+			<factor>1</factor>
+			<offset>0</offset>
+			</transparency>
+		<threshold>0.001</threshold>
+	</animation>
+
+  <animation>
+    <type>select</type>
+    <object-name>Light1.050</object-name>
+    <object-name>Light2.050</object-name>
+    <object-name>Light3.050</object-name>
+    <enable-hot type="bool">false</enable-hot>
+    <condition>
+        <greater-than>
+          <property>/sim/time/sun-angle-rad</property>
+          <value>1.57</value>
+        </greater-than>
+    </condition>
+  </animation>  
+  
+  
+         	  <animation>
+		<type>material</type>
+    <object-name>Light2.051</object-name>
+		<transparency>
+			<alpha-prop>environment/visibility-m</alpha-prop>
+			<factor>1</factor>
+			<offset>0</offset>
+			</transparency>
+		<threshold>0.001</threshold>
+	</animation>
+
+  <animation>
+    <type>select</type>
+    <object-name>Light1.051</object-name>
+    <object-name>Light2.051</object-name>
+    <object-name>Light3.051</object-name>
+    <enable-hot type="bool">false</enable-hot>
+    <condition>
+        <greater-than>
+          <property>/sim/time/sun-angle-rad</property>
+          <value>1.57</value>
+        </greater-than>
+    </condition>
+  </animation> 
+  
+         	  <animation>
+		<type>material</type>
+    <object-name>Light2.052</object-name>
+		<transparency>
+			<alpha-prop>environment/visibility-m</alpha-prop>
+			<factor>1</factor>
+			<offset>0</offset>
+			</transparency>
+		<threshold>0.001</threshold>
+	</animation>
+
+  <animation>
+    <type>select</type>
+    <object-name>Light1.052</object-name>
+    <object-name>Light2.052</object-name>
+    <object-name>Light3.052</object-name>
+    <enable-hot type="bool">false</enable-hot>
+    <condition>
+        <greater-than>
+          <property>/sim/time/sun-angle-rad</property>
+          <value>1.57</value>
+        </greater-than>
+    </condition>
+  </animation> 
+  
+  
+         	  <animation>
+		<type>material</type>
+    <object-name>Light2.053</object-name>
+		<transparency>
+			<alpha-prop>environment/visibility-m</alpha-prop>
+			<factor>1</factor>
+			<offset>0</offset>
+			</transparency>
+		<threshold>0.001</threshold>
+	</animation>
+
+  <animation>
+    <type>select</type>
+    <object-name>Light1.053</object-name>
+    <object-name>Light2.053</object-name>
+    <object-name>Light3.053</object-name>
+    <enable-hot type="bool">false</enable-hot>
+    <condition>
+        <greater-than>
+          <property>/sim/time/sun-angle-rad</property>
+          <value>1.57</value>
+        </greater-than>
+    </condition>
+  </animation> 
+
+         	  <animation>
+		<type>material</type>
+    <object-name>Light2.054</object-name>
+		<transparency>
+			<alpha-prop>environment/visibility-m</alpha-prop>
+			<factor>1</factor>
+			<offset>0</offset>
+			</transparency>
+		<threshold>0.001</threshold>
+	</animation>
+
+  <animation>
+    <type>select</type>
+    <object-name>Light1.054</object-name>
+    <object-name>Light2.054</object-name>
+    <object-name>Light3.054</object-name>
+    <enable-hot type="bool">false</enable-hot>
+    <condition>
+        <greater-than>
+          <property>/sim/time/sun-angle-rad</property>
+          <value>1.57</value>
+        </greater-than>
+    </condition>
+  </animation> 
+
+         	  <animation>
+		<type>material</type>
+    <object-name>Light2.055</object-name>
+		<transparency>
+			<alpha-prop>environment/visibility-m</alpha-prop>
+			<factor>1</factor>
+			<offset>0</offset>
+			</transparency>
+		<threshold>0.001</threshold>
+	</animation>
+
+  <animation>
+    <type>select</type>
+    <object-name>Light1.055</object-name>
+    <object-name>Light2.055</object-name>
+    <object-name>Light3.055</object-name>
+    <enable-hot type="bool">false</enable-hot>
+    <condition>
+        <greater-than>
+          <property>/sim/time/sun-angle-rad</property>
+          <value>1.57</value>
+        </greater-than>
+    </condition>
+  </animation> 
+
+         	  <animation>
+		<type>material</type>
+    <object-name>Light2.056</object-name>
+		<transparency>
+			<alpha-prop>environment/visibility-m</alpha-prop>
+			<factor>1</factor>
+			<offset>0</offset>
+			</transparency>
+		<threshold>0.001</threshold>
+	</animation>
+
+  <animation>
+    <type>select</type>
+    <object-name>Light1.056</object-name>
+    <object-name>Light2.056</object-name>
+    <object-name>Light3.056</object-name>
+    <enable-hot type="bool">false</enable-hot>
+    <condition>
+        <greater-than>
+          <property>/sim/time/sun-angle-rad</property>
+          <value>1.57</value>
+        </greater-than>
+    </condition>
+  </animation> 
+
+         	  <animation>
+		<type>material</type>
+    <object-name>Light2.057</object-name>
+		<transparency>
+			<alpha-prop>environment/visibility-m</alpha-prop>
+			<factor>1</factor>
+			<offset>0</offset>
+			</transparency>
+		<threshold>0.001</threshold>
+	</animation>
+
+  <animation>
+    <type>select</type>
+    <object-name>Light1.057</object-name>
+    <object-name>Light2.057</object-name>
+    <object-name>Light3.057</object-name>
+    <enable-hot type="bool">false</enable-hot>
+    <condition>
+        <greater-than>
+          <property>/sim/time/sun-angle-rad</property>
+          <value>1.57</value>
+        </greater-than>
+    </condition>
+  </animation> 
+
+  
+  
+	<animation>
+        <type>noshadow</type>
+    <object-name>EPWA_plane_park</object-name>
+    </animation>
+
+<animation>
+    <type>select</type>
+    <object-name>EPWA_plane_park</object-name>
+
+    <condition>
+       <greater-than>
+          <property>sim/time/sun-angle-rad</property>
+          <value>1.57</value>
+       </greater-than>
+    </condition>
+</animation>
+
+
+</PropertyList>

@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+   <path>EPWA_lamps.ac</path>
+
+ 
+	<animation>
+        <type>noshadow</type>
+    <object-name>EPWA_plane_park_0</object-name>
+	 <object-name>EPWA_plane_park_1</object-name>
+    </animation>
+
+<animation>
+    <type>select</type>
+    <object-name>EPWA_plane_park_0</object-name>
+	 <object-name>EPWA_plane_park_1</object-name>
+
+    <condition>
+       <greater-than>
+          <property>sim/time/sun-angle-rad</property>
+          <value>1.59</value>
+       </greater-than>
+    </condition>
+</animation>
+
+
+</PropertyList>

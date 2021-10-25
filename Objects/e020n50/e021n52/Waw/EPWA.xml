@@ -1,0 +1,538 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+   <path>EPWA.ac</path>
+
+   <animation>
+      <type>material</type>
+      <object-name>Plane_0.006</object-name>
+      <condition>
+         <greater-than>
+            <property>/sim/time/sun-angle-rad</property>
+            <value>1.59</value>
+         </greater-than>
+      </condition>
+      <global type="bool">true</global>
+      <emission>
+         <red>1</red>
+         <green>1</green>
+         <blue>1</blue>
+      </emission>
+      <texture>term1_2_LM.rgb</texture>
+   </animation>
+   
+   <animation>
+      <type>material</type>
+      <object-name>Plane_0.006</object-name>
+      <condition>
+         <less-than-equals>
+            <property>/sim/time/sun-angle-rad</property>
+            <value>1.59</value>
+         </less-than-equals>
+      </condition>
+      <global type="bool">true</global>
+      <emission>
+         <red>0</red>
+         <green>0</green>
+         <blue>0</blue>
+      </emission>
+      <texture>term1_2.rgb</texture>
+   </animation>
+
+
+
+
+
+
+<animation>
+      <type>material</type>
+      <object-name>Plane_0.006_4</object-name>
+      <condition>
+         <greater-than>
+            <property>/sim/time/sun-angle-rad</property>
+            <value>1.59</value>
+         </greater-than>
+      </condition>
+      <global type="bool">true</global>
+      <emission>
+         <red>1</red>
+         <green>1</green>
+         <blue>1</blue>
+      </emission>
+      <texture>Terminal2_bok_LM.rgb</texture>
+   </animation>
+   
+   <animation>
+      <type>material</type>
+      <object-name>Plane_0.006_4</object-name>
+      <condition>
+         <less-than-equals>
+            <property>/sim/time/sun-angle-rad</property>
+            <value>1.59</value>
+         </less-than-equals>
+      </condition>
+      <global type="bool">true</global>
+      <emission>
+         <red>0</red>
+         <green>0</green>
+         <blue>0</blue>
+      </emission>
+      <texture>Terminal2_bok.rgb</texture>
+   </animation>
+
+
+
+
+
+
+<animation>
+      <type>material</type>
+      <object-name>Plane_0.006_5</object-name>
+      <condition>
+         <greater-than>
+            <property>/sim/time/sun-angle-rad</property>
+            <value>1.59</value>
+         </greater-than>
+      </condition>
+      <global type="bool">true</global>
+      <emission>
+         <red>1</red>
+         <green>1</green>
+         <blue>1</blue>
+      </emission>
+      <texture>Front_LM.rgb</texture>
+   </animation>
+   
+   <animation>
+      <type>material</type>
+      <object-name>Plane_0.006_5</object-name>
+      <condition>
+         <less-than-equals>
+            <property>/sim/time/sun-angle-rad</property>
+            <value>1.59</value>
+         </less-than-equals>
+      </condition>
+      <global type="bool">true</global>
+      <emission>
+         <red>0</red>
+         <green>0</green>
+         <blue>0</blue>
+      </emission>
+      <texture>Front.rgb</texture>
+   </animation>
+
+
+
+
+
+
+
+<animation>
+      <type>material</type>
+      <object-name>Plane_0.006_8</object-name>
+      <condition>
+         <greater-than>
+            <property>/sim/time/sun-angle-rad</property>
+            <value>1.59</value>
+         </greater-than>
+      </condition>
+      <global type="bool">true</global>
+      <emission>
+         <red>1</red>
+         <green>1</green>
+         <blue>1</blue>
+      </emission>
+      <texture>Terminal2_front_LM.rgb</texture>
+   </animation>
+   
+   <animation>
+      <type>material</type>
+      <object-name>Plane_0.006_8</object-name>
+      <condition>
+         <less-than-equals>
+            <property>/sim/time/sun-angle-rad</property>
+            <value>1.59</value>
+         </less-than-equals>
+      </condition>
+      <global type="bool">true</global>
+      <emission>
+         <red>0</red>
+         <green>0</green>
+         <blue>0</blue>
+      </emission>
+      <texture>Terminal2_front.rgb</texture>
+   </animation>
+
+
+
+
+
+
+<animation>
+      <type>material</type>
+      <object-name>Plane_0.013</object-name>
+      <condition>
+         <greater-than>
+            <property>/sim/time/sun-angle-rad</property>
+            <value>1.59</value>
+         </greater-than>
+      </condition>
+      <global type="bool">true</global>
+      <emission>
+         <red>-1</red>
+         <green>-1</green>
+         <blue>-1</blue>
+      </emission>
+      <texture>concreteold.rgb</texture>
+   </animation>
+   
+   <animation>
+      <type>material</type>
+      <object-name>Plane_0.013</object-name>
+      <condition>
+         <less-than-equals>
+            <property>/sim/time/sun-angle-rad</property>
+            <value>1.59</value>
+         </less-than-equals>
+      </condition>
+      <global type="bool">true</global>
+      <emission>
+         <red>0</red>
+         <green>0</green>
+         <blue>0</blue>
+      </emission>
+      <texture>concreteold.rgb</texture>
+   </animation>
+
+
+
+
+
+
+
+<animation>
+      <type>material</type>
+      <object-name>Plane_0.003</object-name>
+      <condition>
+         <greater-than>
+            <property>/sim/time/sun-angle-rad</property>
+            <value>1.59</value>
+         </greater-than>
+      </condition>
+      <global type="bool">true</global>
+      <emission>
+         <red>1</red>
+         <green>1</green>
+         <blue>1</blue>
+      </emission>
+      <texture>ms007_LM.rgb</texture>
+   </animation>
+   
+   <animation>
+      <type>material</type>
+      <object-name>Plane_0.003</object-name>
+      <condition>
+         <less-than-equals>
+            <property>/sim/time/sun-angle-rad</property>
+            <value>1.59</value>
+         </less-than-equals>
+      </condition>
+      <global type="bool">true</global>
+      <emission>
+         <red>0</red>
+         <green>0</green>
+         <blue>0</blue>
+      </emission>
+      <texture>ms007.rgb</texture>
+   </animation>
+
+
+
+
+
+<animation>
+      <type>material</type>
+      <object-name>Plane_0.004_0</object-name>
+      <condition>
+         <greater-than>
+            <property>/sim/time/sun-angle-rad</property>
+            <value>1.59</value>
+         </greater-than>
+      </condition>
+      <global type="bool">true</global>
+      <emission>
+         <red>-1</red>
+         <green>-1</green>
+         <blue>-1</blue>
+      </emission>
+      <texture>ms008.rgb</texture>
+   </animation>
+   
+   <animation>
+      <type>material</type>
+      <object-name>Plane_0.004_0</object-name>
+      <condition>
+         <less-than-equals>
+            <property>/sim/time/sun-angle-rad</property>
+            <value>1.59</value>
+         </less-than-equals>
+      </condition>
+      <global type="bool">true</global>
+      <emission>
+         <red>0</red>
+         <green>0</green>
+         <blue>0</blue>
+      </emission>
+      <texture>ms008.rgb</texture>
+   </animation>
+
+
+
+
+<animation>
+      <type>material</type>
+      <object-name>Plane_0.003</object-name>
+      <condition>
+         <greater-than>
+            <property>/sim/time/sun-angle-rad</property>
+            <value>1.59</value>
+         </greater-than>
+      </condition>
+      <global type="bool">true</global>
+      <emission>
+         <red>1</red>
+         <green>1</green>
+         <blue>1</blue>
+      </emission>
+      <texture>ms007_LM.rgb</texture>
+   </animation>
+   
+   <animation>
+      <type>material</type>
+      <object-name>Plane_0.003</object-name>
+      <condition>
+         <less-than-equals>
+            <property>/sim/time/sun-angle-rad</property>
+            <value>1.59</value>
+         </less-than-equals>
+      </condition>
+      <global type="bool">true</global>
+      <emission>
+         <red>0</red>
+         <green>0</green>
+         <blue>0</blue>
+      </emission>
+      <texture>ms007.rgb</texture>
+   </animation>
+
+
+
+
+
+<animation>
+      <type>material</type>
+      <object-name>Cube.003</object-name>
+      <condition>
+         <greater-than>
+            <property>/sim/time/sun-angle-rad</property>
+            <value>1.59</value>
+         </greater-than>
+      </condition>
+      <global type="bool">true</global>
+      <emission>
+         <red>1</red>
+         <green>1</green>
+         <blue>1</blue>
+      </emission>
+      <texture>swiatlo.rgb</texture>
+   </animation>
+   
+   <animation>
+      <type>material</type>
+      <object-name>Cube.003</object-name>
+      <condition>
+         <less-than-equals>
+            <property>/sim/time/sun-angle-rad</property>
+            <value>1.59</value>
+         </less-than-equals>
+      </condition>
+      <global type="bool">true</global>
+      <emission>
+         <red>0</red>
+         <green>0</green>
+         <blue>0</blue>
+      </emission>
+      <texture>swiatlo.rgb</texture>
+   </animation>
+
+
+
+
+
+<animation>
+      <type>material</type>
+      <object-name>Plane_0.002_0</object-name>
+      <condition>
+         <greater-than>
+            <property>/sim/time/sun-angle-rad</property>
+            <value>1.59</value>
+         </greater-than>
+      </condition>
+      <global type="bool">true</global>
+      <emission>
+         <red>1</red>
+         <green>1</green>
+         <blue>1</blue>
+      </emission>
+      <texture>ms009_LM.rgb</texture>
+   </animation>
+   
+   <animation>
+      <type>material</type>
+      <object-name>Plane_0.002_0</object-name>
+      <condition>
+         <less-than-equals>
+            <property>/sim/time/sun-angle-rad</property>
+            <value>1.59</value>
+         </less-than-equals>
+      </condition>
+      <global type="bool">true</global>
+      <emission>
+         <red>0</red>
+         <green>0</green>
+         <blue>0</blue>
+      </emission>
+      <texture>ms009.rgb</texture>
+   </animation>
+
+
+
+
+
+
+<animation>
+      <type>material</type>
+      <object-name>Plane_0.006_6</object-name>
+      <condition>
+         <greater-than>
+            <property>/sim/time/sun-angle-rad</property>
+            <value>1.59</value>
+         </greater-than>
+      </condition>
+      <global type="bool">true</global>
+      <emission>
+         <red>1</red>
+         <green>1</green>
+         <blue>1</blue>
+      </emission>
+      <texture>Terminal2.rgb</texture>
+   </animation>
+   
+   <animation>
+      <type>material</type>
+      <object-name>Plane_0.006_6</object-name>
+      <condition>
+         <less-than-equals>
+            <property>/sim/time/sun-angle-rad</property>
+            <value>1.59</value>
+         </less-than-equals>
+      </condition>
+      <global type="bool">true</global>
+      <emission>
+         <red>0</red>
+         <green>0</green>
+         <blue>0</blue>
+      </emission>
+      <texture>Terminal2.rgb</texture>
+   </animation>
+
+
+
+
+
+
+
+<animation>
+      <type>material</type>
+      <object-name>Plane_0.001_1</object-name>
+      <condition>
+         <greater-than>
+            <property>/sim/time/sun-angle-rad</property>
+            <value>1.59</value>
+         </greater-than>
+      </condition>
+      <global type="bool">true</global>
+      <emission>
+         <red>1</red>
+         <green>1</green>
+         <blue>1</blue>
+      </emission>
+      <texture>tex-B01.rgb</texture>
+   </animation>
+   
+   <animation>
+      <type>material</type>
+      <object-name>Plane_0.001_1</object-name>
+      <condition>
+         <less-than-equals>
+            <property>/sim/time/sun-angle-rad</property>
+            <value>1.59</value>
+         </less-than-equals>
+      </condition>
+      <global type="bool">true</global>
+      <emission>
+         <red>0</red>
+         <green>0</green>
+         <blue>0</blue>
+      </emission>
+      <texture>tex-B01.rgb</texture>
+   </animation>
+
+
+
+
+
+<animation>
+      <type>material</type>
+      <object-name>Plane_0.001_1</object-name>
+      <condition>
+         <greater-than>
+            <property>/sim/time/sun-angle-rad</property>
+            <value>1.59</value>
+         </greater-than>
+      </condition>
+      <global type="bool">true</global>
+      <emission>
+         <red>1</red>
+         <green>1</green>
+         <blue>1</blue>
+      </emission>
+      <texture>tex-B01.rgb</texture>
+   </animation>
+   
+   <animation>
+      <type>material</type>
+      <object-name>Plane_0.001_1</object-name>
+      <condition>
+         <less-than-equals>
+            <property>/sim/time/sun-angle-rad</property>
+            <value>1.59</value>
+         </less-than-equals>
+      </condition>
+      <global type="bool">true</global>
+      <emission>
+         <red>0</red>
+         <green>0</green>
+         <blue>0</blue>
+      </emission>
+      <texture>tex-B01.rgb</texture>
+   </animation>
+
+
+
+
+
+
+
+
+</PropertyList>

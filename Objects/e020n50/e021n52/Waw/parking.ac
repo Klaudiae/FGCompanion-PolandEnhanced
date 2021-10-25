@@ -1,0 +1,26 @@
+AC3Db
+MATERIAL "DefaultWhite" rgb 1 1 1  amb 1 1 1  emis 0 0 0  spec 0.5 0.5 0.5  shi 64  trans 0
+MATERIAL "Material1" rgb 0.0275 0.0235 0.0078 amb 1 1 1 emis 0 0 0 spec 0.2 0.2 0.2 shi 128 trans 0.0
+OBJECT world
+kids 1
+OBJECT poly
+name "blah"
+data 4
+Mesh
+texture "parking.png"
+texrep 1 1
+crease 30.000000
+numvert 4
+0.402417 0.010227 -86.113365
+129.791107 0.01022 0.118821
+0.334619 0.010225 -0.003402
+129.858917 0.010222 -85.991158
+numsurf 1
+SURF 0x30
+mat 1
+refs 4
+2 1.00109994411 -1.00090003014
+0 1.00619995594 -0.00109999999404
+3 -2.00130009651 0.00159999995958
+1 -2.00629997253 -0.998099982738
+kids 0
