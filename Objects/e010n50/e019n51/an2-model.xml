@@ -1,0 +1,596 @@
+<!--
+    #############################################################################
+    #    Copyright 								#
+    #									   	#
+    #    (C) 2010 by Yurik V. Nikiforoff - FDM, 3d instruments, animations, 	#
+    #    systems and over.   							#
+    #		yurik@megasignal.com					   	#
+    #                                                                          	#
+    #    This program is free software; you can redistribute it and#or modify  	#
+    #    it under the terms of the GNU General Public License as published by  	#
+    #    the Free Software Foundation; either version 2 of the License, or     	#
+    #    (at your option) any later version.                                   	#
+    #                                                                          	#
+    #    This program is distributed in the hope that it will be useful,       	#
+    #    but WITHOUT ANY WARRANTY; without even the implied warranty of        	#
+    #    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the         	#
+    #    GNU General Public License for more details.                          	#
+    #                                                                          	#
+    #    You should have received a copy of the GNU General Public License     	#
+    #    along with this program; if not, write to the                         	#
+    #    Free Software Foundation, Inc.,                                       	#
+    #    59 Temple Place - Suite 330, Boston, MA  02111-1307, USA.             	#
+    #############################################################################
+    
+    ************************* An-2 ver. 2.0 *************************************
+    -->
+
+<PropertyList>
+ <path>an2.ac</path>
+ <offsets>
+   <x-m>-3.8</x-m>
+   <y-m>0.0</y-m>
+   <z-m>0.0</z-m>
+   <heading-deg>0.0</heading-deg>
+ </offsets>
+
+ <model>
+	 <name>VirtualCockpit</name>
+	 <path>Aircraft/an2/Model/vc.xml</path>
+	 <offsets>
+		 <x-m>0.01</x-m>
+		 <y-m>0.0</y-m>
+		 <z-m>-0.086</z-m>
+
+	 </offsets>
+ </model>
+
+ <!--Don't load gauges if external views selected-->
+ <animation>
+	 <type>select</type>
+	 <object-name>Paneli</object-name>
+	 <object-name>05</object-name>\
+	 <object-name>glass</object-name>
+	 <condition>
+	  <not>
+	   <property>sim/current-view/internal</property>
+	  </not>
+ 	 </condition>
+ </animation>
+ 
+ <animation>
+	 <type>select</type>
+	 <object-name>VirtualCockpit</object-name>
+	 <condition>
+	  <property>sim/current-view/internal</property>
+	 </condition>
+ </animation>
+ 
+<!--External animations--> 
+<!--Gear-->
+<animation>
+	<type>rotate</type>
+	<object-name>Podkos_4</object-name>
+	<property>gear/gear[0]/compression-norm</property>
+	<interpolation>
+		<entry><ind>	1</ind><dep>	-12</dep></entry>
+		<entry><ind>	0</ind><dep>	0</dep></entry>
+	</interpolation>
+
+	<center>
+		<x-m>3.141</x-m>
+		<y-m>-1.242</y-m>
+		<z-m>-0.858</z-m>
+	</center>
+	<axis>
+		<x>0.8</x>
+		<y>-0.2</y>
+		<z>0.0</z>
+	</axis>
+	
+</animation> 
+<animation>
+	<type>rotate</type>
+	<object-name>Podkos_7</object-name>
+	<property>gear/gear[1]/compression-norm</property>
+	<interpolation>
+		<entry><ind>	1</ind><dep>	12</dep></entry>
+		<entry><ind>	0</ind><dep>	0</dep></entry>
+	</interpolation>
+	
+	<center>
+		<x-m>3.141</x-m>
+		<y-m>1.242</y-m>
+		<z-m>-0.858</z-m>
+	</center>
+	<axis>
+		<x>0.8</x>
+		<y>0.2</y>
+		<z>0.0</z>
+	</axis>
+	
+</animation> 
+
+<animation>
+	<type>rotate</type>
+	<object-name>Left_koleso</object-name>
+	<object-name>Left_os</object-name>
+	<object-name>Left_Detal</object-name>
+	<object-name>Left_Detal.001</object-name>
+	<object-name>Podkos_1</object-name>
+	<object-name>Podkos_2</object-name>
+	<object-name>Podkos_3</object-name>
+	<property>gear/gear[0]/compression-norm</property>
+	<interpolation>
+		<entry><ind>	1</ind><dep>	-9</dep></entry>
+		<entry><ind>	0</ind><dep>	0</dep></entry>
+	</interpolation>
+
+	<axis>
+		<x1-m>2.705</x1-m>
+		<y1-m>-0.047</y1-m>
+		<z1-m>-0.9</z1-m>
+		
+		
+		<x2-m>3.509</x2-m>
+		<y2-m>-0.082</y2-m>
+		<z2-m>-0.953</z2-m>
+	</axis>
+	
+</animation>
+
+<animation>
+	<type>rotate</type>
+	<object-name>Right_koleso</object-name>
+	<object-name>Right_os</object-name>
+	<object-name>Left_Detal.002</object-name>
+	<object-name>Left_Detal.003</object-name>
+	<object-name>Podkos_5</object-name>
+	<object-name>Podkos_6</object-name>
+	<object-name>Podkos_8</object-name>
+	<property>gear/gear[1]/compression-norm</property>
+	<interpolation>
+		<entry><ind>	1</ind><dep>	9</dep></entry>
+		<entry><ind>	0</ind><dep>	0</dep></entry>
+	</interpolation>
+	
+	<axis>
+		<x1-m>2.705</x1-m>
+		<y1-m>0.047</y1-m>
+		<z1-m>-0.9</z1-m>
+		
+		
+		<x2-m>3.509</x2-m>
+		<y2-m>0.082</y2-m>
+		<z2-m>-0.953</z2-m>
+	</axis>
+	
+</animation> 
+
+<!-- 
+     Wheel diameter about 0.9 m
+     factor(rpm) = (V(kt)*60)/(d*Pi) = V(kt)*21.22
+     knots/ms=0.514
+     -->
+<!-- left wheel -->
+<animation>
+	<type>spin</type>
+	<object-name>Left_koleso</object-name>
+	<property>gear/gear[0]/rollspeed-ms</property>
+	<factor>-10.92</factor>
+	<axis>
+		<x1-m>2.734</x1-m>
+		<y1-m>-1.827</y1-m>
+		<z1-m>-2.116</z1-m>
+		
+		
+		<x2-m>2.734</x2-m>
+		<y2-m>-1.577</y2-m>
+		<z2-m>-2.075</z2-m>
+	</axis>
+
+</animation> 
+<!-- right wheel -->
+<animation>
+	<type>spin</type>
+	<object-name>Right_koleso</object-name>
+	<property>gear/gear[1]/rollspeed-ms</property>
+	<factor>-10.92</factor>
+	<axis>
+		
+		<x1-m>2.734</x1-m>
+		<y1-m>1.577</y1-m>
+		<z1-m>-2.075</z1-m>
+		
+		<x2-m>2.734</x2-m>
+		<y2-m>1.827</y2-m>
+		<z2-m>-2.116</z2-m>
+
+	</axis>
+	
+</animation> 
+
+<!--Propeller-->
+<animation>
+	<type>select</type>
+	<object-name>Lopast_1</object-name>
+	<object-name>Lopast_2</object-name>
+	<object-name>Lopast_3</object-name>
+	<object-name>Lopast_4</object-name>
+	<condition>
+		<less-than>
+			<property>engines/engine/rpm</property>
+			<value>750</value>
+		</less-than>
+	</condition>
+</animation>
+
+<animation>
+	<type>select</type>
+	<object-name>prop_blur</object-name>
+	<condition>
+		<greater-than>
+			<property>engines/engine/rpm</property>
+			<value>750</value>
+		</greater-than>
+	</condition>
+</animation>
+
+<animation>
+	
+	<type>spin</type>
+	<object-name>Vtulka_AV</object-name>
+	<object-name>Kolpak_AV</object-name>
+	<object-name>Gruz_AV</object-name>
+	<object-name>Lopast_1</object-name>
+	<object-name>Lopast_2</object-name>
+	<object-name>Lopast_3</object-name>
+	<object-name>Lopast_4</object-name>
+	<property>engines/engine/rpm</property>
+	<axis>
+		<x>1.0</x>
+		<y>0.0</y>
+		<z>0.0</z>
+	</axis>	    
+</animation>
+ 
+<animation>
+	
+	<type>spin</type>
+	<object-name>prop_blur</object-name>
+	<property>engines/engine/rpm</property>
+	<factor>0.005</factor>
+	<axis>
+		<x>1.0</x>
+		<y>0.0</y>
+		<z>0.0</z>
+	</axis>	    
+</animation>
+
+<!--Surface-->
+<!-- Slatss -->
+<animation>
+	<type>rotate</type>
+	<object-name>Right_wings_verx.001</object-name>
+	<property>surface-positions/speedbrake-pos-norm</property>
+	<interpolation>
+		<entry><ind>	1</ind><dep>	20</dep></entry>
+		<entry><ind>	0</ind><dep>	0</dep></entry>
+	</interpolation>
+	<axis>
+		<x1-m>3.413</x1-m>
+		<y1-m>-8.475</y1-m>
+		<z1-m>1.689</z1-m>
+		
+		
+		<x2-m>3.413</x2-m>
+		<y2-m>-0.889</y2-m>
+		<z2-m>1.282</z2-m>
+	</axis>
+</animation>
+<animation>
+	<type>rotate</type>
+	<object-name>Right_wings_verx</object-name>
+	<property>surface-positions/speedbrake-pos-norm</property>
+	<interpolation>
+		<entry><ind>	1</ind><dep>	-20</dep></entry>
+		<entry><ind>	0</ind><dep>	0</dep></entry>
+	</interpolation>
+	<axis>
+		<x1-m>3.413</x1-m>
+		<y1-m>8.475</y1-m>
+		<z1-m>1.689</z1-m>
+		
+		
+		<x2-m>3.413</x2-m>
+		<y2-m>0.889</y2-m>
+		<z2-m>1.282</z2-m>
+	</axis>
+</animation>
+
+<!-- Flaps -->
+<animation>
+	<type>rotate</type>
+	<object-name>Flaps_left_verx</object-name>
+	<property>surface-positions/flap-pos-norm</property>
+	<interpolation>
+		<entry><ind>	1</ind><dep>	40</dep></entry>
+		<entry><ind>	0</ind><dep>	0</dep></entry>
+	</interpolation>
+	<axis>
+		<x1-m>4.847</x1-m>
+		<y1-m>-4.158</y1-m>
+		<z1-m>1.337</z1-m>
+		
+		
+		<x2-m>4.847</x2-m>
+		<y2-m>-0.836</y2-m>
+		<z2-m>1.163</z2-m>
+	</axis>
+</animation>
+<animation>
+	<type>rotate</type>
+	<object-name>Flaps_right_verx</object-name>
+	<property>surface-positions/flap-pos-norm</property>
+	<interpolation>
+		<entry><ind>	1</ind><dep>	-40</dep></entry>
+		<entry><ind>	0</ind><dep>	0</dep></entry>
+	</interpolation>
+	<axis>
+		<x1-m>4.847</x1-m>
+		<y1-m>4.158</y1-m>
+		<z1-m>1.337</z1-m>
+		
+		
+		<x2-m>4.847</x2-m>
+		<y2-m>0.836</y2-m>
+		<z2-m>1.163</z2-m>
+	</axis>
+</animation>
+
+<animation>
+	<type>rotate</type>
+	<object-name>Flaps_left_niz</object-name>
+	<property>surface-positions/flap-pos-norm</property>
+	<interpolation>
+		<entry><ind>	1</ind><dep>	40</dep></entry>
+		<entry><ind>	0</ind><dep>	0</dep></entry>
+	</interpolation>
+	<axis>
+		<x1-m>4.612</x1-m>
+		<y1-m>-6.567</y1-m>
+		<z1-m>-0.519</z1-m>
+		
+		
+		<x2-m>4.612</x2-m>
+		<y2-m>-1.311</y2-m>
+		<z2-m>-0.869</z2-m>
+	</axis>
+</animation>
+<animation>
+	<type>rotate</type>
+	<object-name>Flaps_right_niz</object-name>
+	<property>surface-positions/flap-pos-norm</property>
+	<interpolation>
+		<entry><ind>	1</ind><dep>	-40</dep></entry>
+		<entry><ind>	0</ind><dep>	0</dep></entry>
+	</interpolation>
+	<axis>
+		<x1-m>4.612</x1-m>
+		<y1-m>6.567</y1-m>
+		<z1-m>-0.519</z1-m>
+		
+		
+		<x2-m>4.612</x2-m>
+		<y2-m>1.311</y2-m>
+		<z2-m>-0.869</z2-m>
+	</axis>
+</animation>
+
+<!-- Left aileron -->
+<animation>
+	<type>rotate</type>
+	<object-name>Object01</object-name>
+	<property>surface-positions/left-aileron-pos-norm</property>
+	<interpolation>
+		<entry><ind>	1</ind><dep>	14</dep></entry>
+		<entry><ind>	0</ind><dep>	0</dep></entry>
+		<entry><ind>	-1</ind><dep>	-30</dep></entry>
+	</interpolation>
+	<axis>
+		<x1-m>4.847</x1-m>
+		<y1-m>-8.473</y1-m>
+		<z1-m>1.552</z1-m>
+		
+		
+		<x2-m>4.847</x2-m>
+		<y2-m>-4.158</y2-m>
+		<z2-m>1.337</z2-m>
+	</axis>
+</animation>
+<!-- Right aileron -->
+<animation>
+	<type>rotate</type>
+	<object-name>Object01.001</object-name>
+	<property>surface-positions/right-aileron-pos-norm</property>
+	<interpolation>
+		<entry><ind>	1</ind><dep>	30</dep></entry>
+		<entry><ind>	0</ind><dep>	0</dep></entry>
+		<entry><ind>	-1</ind><dep>	-14</dep></entry>
+	</interpolation>
+	<axis>
+		<x1-m>4.847</x1-m>
+		<y1-m>8.473</y1-m>
+		<z1-m>1.552</z1-m>
+		
+		
+		<x2-m>4.847</x2-m>
+		<y2-m>4.158</y2-m>
+		<z2-m>1.337</z2-m>
+	</axis>
+</animation>
+
+<!-- elevator -->
+<animation>
+	<type>rotate</type>
+	<object-name>RV_left</object-name>
+	<object-name>RV_right</object-name>
+	<property>surface-positions/elevator-pos-norm</property>
+	<interpolation>
+		<entry><ind>	-1</ind><dep>	-42</dep></entry>
+		<entry><ind>	0</ind><dep>	0</dep></entry>
+		<entry><ind>	1</ind><dep>	22</dep></entry>
+	</interpolation>
+	<center>
+		<x-m>11.130</x-m>
+		<y-m>0.0</y-m>
+		<z-m>1.546</z-m>
+	</center>
+	<axis>
+		<x>0</x>
+		<y>1</y>
+		<z>0</z>
+	</axis>
+</animation>
+<!--Rudder-->
+<animation>
+	<type>rotate</type>
+	<object-name>kil</object-name>
+	<object-name>Detal_7</object-name>
+	<object-name>Ogon_RN</object-name>
+	<property>surface-positions/rudder-pos-norm</property>
+	<factor>-28</factor>
+	<axis>
+		<x1-m>11.264</x1-m>
+		<y1-m>0</y1-m>
+		<z1-m>3.389</z1-m>
+		
+		
+		<x2-m>11.663</x2-m>
+		<y2-m>0</y2-m>
+		<z2-m>0.265</z2-m>
+	</axis>
+</animation>
+
+<!-- tail wheel -->
+<animation>
+	<type>rotate</type>
+	<object-name>Xvost_koleso</object-name>
+	<object-name>Xvost_os</object-name>
+	<object-name>Vilka</object-name>
+	<object-name>Zazemlenie</object-name>
+	<property>surface-positions/rudder-pos-norm</property>
+	<factor>-28</factor>
+	<axis>
+		<x1-m>10.41</x1-m>
+		<y1-m>0</y1-m>
+		<z1-m>-0.14</z1-m>
+		
+		
+		<x2-m>10.494</x2-m>
+		<y2-m>0</y2-m>
+		<z2-m>-0.437</z2-m>
+	</axis>
+</animation>
+
+<animation>
+	<type>spin</type>
+	<object-name>Xvost_koleso</object-name>
+	<property>velocities/airspeed-kt</property>
+	<factor>-12.5</factor>
+	<condition>
+		<property>gear/gear[2]/compression-norm</property>
+	</condition>
+	<center>
+		<x-m>10.685</x-m>
+		<y-m>0.0</y-m>
+		<z-m>-0.566</z-m>
+	</center>
+	<axis>
+		<x>0</x>
+		<y>1</y>
+		<z>0</z>
+	</axis>
+</animation>
+
+<!--Air dampers-->
+<animation>
+	<type>rotate</type>
+	<object-name>Stvorka_1</object-name>
+	<property>fdm/jsbsim/propulsion/engine[0]/air-damper</property>
+	<interpolation>
+		<entry><ind>	0</ind><dep>	0</dep></entry>
+		<entry><ind>	1</ind><dep>	10</dep></entry>
+	</interpolation>
+	<center>
+		<x-m>1.242</x-m>
+		<y-m>0.556</y-m>
+		<z-m>0.371</z-m>
+	</center>
+	<axis>
+		<x>0</x>
+		<y>-0.5</y>
+		<z>0.5</z>
+	</axis>
+</animation>
+<animation>
+	<type>rotate</type>
+	<object-name>Stvorka_2</object-name>
+	<property>fdm/jsbsim/propulsion/engine[0]/air-damper</property>
+	<interpolation>
+		<entry><ind>	0</ind><dep>	0</dep></entry>
+		<entry><ind>	1</ind><dep>	-10</dep></entry>
+	</interpolation>
+	<center>
+		<x-m>1.242</x-m>
+		<y-m>-0.556</y-m>
+		<z-m>0.371</z-m>
+	</center>
+	<axis>
+		<x>0</x>
+		<y>0.5</y>
+		<z>0.5</z>
+	</axis>
+</animation>
+
+<animation>
+	<type>rotate</type>
+	<object-name>Stvorka_3</object-name>
+	<property>fdm/jsbsim/propulsion/engine[0]/air-damper</property>
+	<interpolation>
+		<entry><ind>	0</ind><dep>	0</dep></entry>
+		<entry><ind>	1</ind><dep>	-10</dep></entry>
+	</interpolation>
+	<center>
+		<x-m>1.242</x-m>
+		<y-m>-0.556</y-m>
+		<z-m>-0.371</z-m>
+	</center>
+	<axis>
+		<x>0</x>
+		<y>-0.5</y>
+		<z>0.5</z>
+	</axis>
+</animation>
+
+<animation>
+	<type>rotate</type>
+	<object-name>Stvorka_4</object-name>
+	<property>fdm/jsbsim/propulsion/engine[0]/air-damper</property>
+	<interpolation>
+		<entry><ind>	0</ind><dep>	0</dep></entry>
+		<entry><ind>	1</ind><dep>	10</dep></entry>
+	</interpolation>
+	<center>
+		<x-m>1.242</x-m>
+		<y-m>0.556</y-m>
+		<z-m>-0.371</z-m>
+	</center>
+	<axis>
+		<x>0</x>
+		<y>0.5</y>
+		<z>0.5</z>
+	</axis>
+</animation>
+
+</PropertyList>

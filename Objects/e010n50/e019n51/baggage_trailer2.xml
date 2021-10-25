@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+	<path>baggage_trailer2.ac</path>
+
+	<animation>
+		<type>range</type>
+		<min-m>0</min-m>
+		<max-m>750</max-m>
+	</animation>
+
+	<animation>
+		<type>range</type>
+                <object-name>body</object-name>
+		<min-m>0</min-m>
+		<max-m>100</max-m>
+	</animation>
+
+</PropertyList>
