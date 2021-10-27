@@ -1,0 +1,988 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PropertyList>
+	<path>AL_25b.ac</path>
+	<!-- Poprzeczka -->
+		<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 270.4 </x-m>
+      		<y-m> 0.75 </y-m>
+      		<z-m> 1.900 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+		<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 270.4 </x-m>
+      		<y-m> 2.25 </y-m>
+      		<z-m> 1.900 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+		<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 270.4 </x-m>
+      		<y-m> -0.75 </y-m>
+      		<z-m> 1.900 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+		<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 270.4 </x-m>
+      		<y-m> -2.25 </y-m>
+      		<z-m> 1.900 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+
+		<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 270.4 </x-m>
+      		<y-m> 4.5 </y-m>
+      		<z-m> 1.900 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+		<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 270.4 </x-m>
+      		<y-m> 6.75 </y-m>
+      		<z-m> 1.900 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+		<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 270.4 </x-m>
+      		<y-m> 9.00 </y-m>
+      		<z-m> 1.900 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+		<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 270.4 </x-m>
+      		<y-m> 11.25 </y-m>
+      		<z-m> 1.900 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+		<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 270.4 </x-m>
+      		<y-m> 13.50 </y-m>
+      		<z-m> 1.900 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+		<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 270.4 </x-m>
+      		<y-m> 15.75 </y-m>
+      		<z-m> 1.900 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+
+		<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 270.4 </x-m>
+      		<y-m> -4.5 </y-m>
+      		<z-m> 1.900 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+		<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 270.4 </x-m>
+      		<y-m> -6.75 </y-m>
+      		<z-m> 1.900 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+		<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 270.4 </x-m>
+      		<y-m> -9.00 </y-m>
+      		<z-m> 1.900 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+		<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 270.4 </x-m>
+      		<y-m> -11.25 </y-m>
+      		<z-m> 1.900 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+		<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 270.4 </x-m>
+      		<y-m> -13.50 </y-m>
+      		<z-m> 1.900 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+		<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 270.4 </x-m>
+      		<y-m> -15.75 </y-m>
+      		<z-m> 1.900 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+
+	<!-- 300 -->
+		<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 300.4 </x-m>
+      		<y-m> 0.75 </y-m>
+      		<z-m> 2.100 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+		<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 300.4 </x-m>
+      		<y-m> 2.25 </y-m>
+      		<z-m> 2.100 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+		<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 300.4 </x-m>
+      		<y-m> -0.75 </y-m>
+      		<z-m> 2.100 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+		<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 300.4 </x-m>
+      		<y-m> -2.25 </y-m>
+      		<z-m> 2.100 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+	<!-- 330 -->
+		<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 330.4 </x-m>
+      		<y-m> 0.75 </y-m>
+      		<z-m> 2.400 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+		<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 330.4 </x-m>
+      		<y-m> 2.25 </y-m>
+      		<z-m> 2.400 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+		<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 330.4 </x-m>
+      		<y-m> -0.75 </y-m>
+      		<z-m> 2.400 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+		<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 330.4 </x-m>
+      		<y-m> -2.25 </y-m>
+      		<z-m> 2.400 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+	<!-- 360 -->
+	<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 360.4 </x-m>
+      		<y-m> 0.75 </y-m>
+      		<z-m> 2.600 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+		<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 360.4 </x-m>
+      		<y-m> 2.25 </y-m>
+      		<z-m> 2.600 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+		<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 360.4 </x-m>
+      		<y-m> -0.75 </y-m>
+      		<z-m> 2.600 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+		<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 360.4 </x-m>
+      		<y-m> -2.25 </y-m>
+      		<z-m> 2.600 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+	<!-- 390 -->
+	<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 390.4 </x-m>
+      		<y-m> 0.75 </y-m>
+      		<z-m> 2.900 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+		<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 390.4 </x-m>
+      		<y-m> 2.25 </y-m>
+      		<z-m> 2.900 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+		<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 390.4 </x-m>
+      		<y-m> -0.75 </y-m>
+      		<z-m> 2.900 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+		<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 390.4 </x-m>
+      		<y-m> -2.25 </y-m>
+      		<z-m> 2.900 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+<!-- 420 -->
+	<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 420.4 </x-m>
+      		<y-m> 0.75 </y-m>
+      		<z-m> 2.900 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+		<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 420.4 </x-m>
+      		<y-m> 2.25 </y-m>
+      		<z-m> 2.900 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+		<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 420.4 </x-m>
+      		<y-m> -0.75 </y-m>
+      		<z-m> 2.900 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+		<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 420.4 </x-m>
+      		<y-m> -2.25 </y-m>
+      		<z-m> 2.900 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+<!-- 450 -->
+	<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 450.4 </x-m>
+      		<y-m> 0.75 </y-m>
+      		<z-m> 3.100 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+		<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 450.4 </x-m>
+      		<y-m> 2.25 </y-m>
+      		<z-m> 3.100 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+		<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 450.4 </x-m>
+      		<y-m> -0.75 </y-m>
+      		<z-m> 3.100 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+		<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 450.4 </x-m>
+      		<y-m> -2.25 </y-m>
+      		<z-m> 3.100 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+<!-- 480 -->
+	<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 480.4 </x-m>
+      		<y-m> 0.75 </y-m>
+      		<z-m> 3.300 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+		<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 480.4 </x-m>
+      		<y-m> 2.25 </y-m>
+      		<z-m> 3.300 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+		<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 480.4 </x-m>
+      		<y-m> -0.75 </y-m>
+      		<z-m> 3.300 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+		<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 480.4 </x-m>
+      		<y-m> -2.25 </y-m>
+      		<z-m> 3.300 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+<!-- 510 -->
+	<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 510.4 </x-m>
+      		<y-m> 0.75 </y-m>
+      		<z-m> 3.400 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+		<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 510.4 </x-m>
+      		<y-m> 2.25 </y-m>
+      		<z-m> 3.400 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+		<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 510.4 </x-m>
+      		<y-m> -0.75 </y-m>
+      		<z-m> 3.400 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+		<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 510.4 </x-m>
+      		<y-m> -2.25 </y-m>
+      		<z-m> 3.400 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+<!-- 540 -->
+	<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 540.4 </x-m>
+      		<y-m> 0.75 </y-m>
+      		<z-m> 3.600 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+		<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 540.4 </x-m>
+      		<y-m> 2.25 </y-m>
+      		<z-m> 3.600 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+		<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 540.4 </x-m>
+      		<y-m> -0.75 </y-m>
+      		<z-m> 3.600 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+		<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 540.4 </x-m>
+      		<y-m> -2.25 </y-m>
+      		<z-m> 3.600 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+<!-- 570 -->
+	<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 570.4 </x-m>
+      		<y-m> 0.75 </y-m>
+      		<z-m> 3.700 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+		<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 570.4 </x-m>
+      		<y-m> 2.25 </y-m>
+      		<z-m> 3.700 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+		<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 570.4 </x-m>
+      		<y-m> -0.75 </y-m>
+      		<z-m> 3.700 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+		<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 570.4 </x-m>
+      		<y-m> -2.25 </y-m>
+      		<z-m> 3.700 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+<!-- 600 -->
+	<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 600.4 </x-m>
+      		<y-m> 0.75 </y-m>
+      		<z-m> 3.90 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+		<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 600.4 </x-m>
+      		<y-m> 2.25 </y-m>
+      		<z-m> 3.90 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+		<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 600.4 </x-m>
+      		<y-m> -0.75 </y-m>
+      		<z-m> 3.90 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+		<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 600.4 </x-m>
+      		<y-m> -2.25 </y-m>
+      		<z-m> 3.90 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+<!-- 630 -->
+	<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 630.4 </x-m>
+      		<y-m> 0.75 </y-m>
+      		<z-m> 4.10 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+		<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 630.4 </x-m>
+      		<y-m> 2.25 </y-m>
+      		<z-m> 4.10 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+		<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 630.4 </x-m>
+      		<y-m> -0.75 </y-m>
+      		<z-m> 4.10 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+		<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 630.4 </x-m>
+      		<y-m> -2.25 </y-m>
+      		<z-m> 4.10 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+<!-- 660 -->
+	<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 660.4 </x-m>
+      		<y-m> 0.75 </y-m>
+      		<z-m> 4.20 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+		<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 660.4 </x-m>
+      		<y-m> 2.25 </y-m>
+      		<z-m> 4.20 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+		<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 660.4 </x-m>
+      		<y-m> -0.75 </y-m>
+      		<z-m> 4.20 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+		<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 660.4 </x-m>
+      		<y-m> -2.25 </y-m>
+      		<z-m> 4.20 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+<!-- 690 -->
+	<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 690.4 </x-m>
+      		<y-m> 0.75 </y-m>
+      		<z-m> 4.20 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+		<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 690.4 </x-m>
+      		<y-m> 2.25 </y-m>
+      		<z-m> 4.20 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+		<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 690.4 </x-m>
+      		<y-m> -0.75 </y-m>
+      		<z-m> 4.20 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+		<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 690.4 </x-m>
+      		<y-m> -2.25 </y-m>
+      		<z-m> 4.20 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+<!-- 720 -->
+	<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 720.4 </x-m>
+      		<y-m> 0.75 </y-m>
+      		<z-m> 4.20 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+		<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 720.4 </x-m>
+      		<y-m> 2.25 </y-m>
+      		<z-m> 4.20 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+		<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 720.4 </x-m>
+      		<y-m> -0.75 </y-m>
+      		<z-m> 4.20 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+		<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 720.4 </x-m>
+      		<y-m> -2.25 </y-m>
+      		<z-m> 4.20 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+<!-- 750 -->
+	<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 750.4 </x-m>
+      		<y-m> 0.75 </y-m>
+      		<z-m> 4.30 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+		<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 750.4 </x-m>
+      		<y-m> 2.25 </y-m>
+      		<z-m> 4.30 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+		<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 750.4 </x-m>
+      		<y-m> -0.75 </y-m>
+      		<z-m> 4.30 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+		<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 750.4 </x-m>
+      		<y-m> -2.25 </y-m>
+      		<z-m> 4.30 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+<!-- 780 -->
+	<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 780.4 </x-m>
+      		<y-m> 0.75 </y-m>
+      		<z-m> 4.40 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+		<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 780.4 </x-m>
+      		<y-m> 2.25 </y-m>
+      		<z-m> 4.40 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+		<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 780.4 </x-m>
+      		<y-m> -0.75 </y-m>
+      		<z-m> 4.40 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+		<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 780.4 </x-m>
+      		<y-m> -2.25 </y-m>
+      		<z-m> 4.40 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+<!-- 810 -->
+	<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 810.4 </x-m>
+      		<y-m> 0.75 </y-m>
+      		<z-m> 4.60 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+		<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 810.4 </x-m>
+      		<y-m> 2.25 </y-m>
+      		<z-m> 4.60 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+		<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 810.4 </x-m>
+      		<y-m> -0.75 </y-m>
+      		<z-m> 4.60 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+		<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 810.4 </x-m>
+      		<y-m> -2.25 </y-m>
+      		<z-m> 4.60 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+<!-- 840 -->
+	<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 840.4 </x-m>
+      		<y-m> 0.75 </y-m>
+      		<z-m> 4.70 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+		<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 840.4 </x-m>
+      		<y-m> 2.25 </y-m>
+      		<z-m> 4.70 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+		<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 840.4 </x-m>
+      		<y-m> -0.75 </y-m>
+      		<z-m> 4.70 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+		<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 840.4 </x-m>
+      		<y-m> -2.25 </y-m>
+      		<z-m> 4.70 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+<!-- 870 -->
+	<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 870.4 </x-m>
+      		<y-m> 0.75 </y-m>
+      		<z-m> 4.80 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+		<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 870.4 </x-m>
+      		<y-m> 2.25 </y-m>
+      		<z-m> 4.80 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+		<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 870.4 </x-m>
+      		<y-m> -0.75 </y-m>
+      		<z-m> 4.80 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+		<model>
+		<path>WhiteLight6000.xml</path>
+    		<offsets>
+      		<x-m> 870.4 </x-m>
+      		<y-m> -2.25 </y-m>
+      		<z-m> 4.80 </z-m>
+      		<pitch-deg> 0.00</pitch-deg>
+	  	<heading-deg>0.0 </heading-deg>
+    		</offsets>
+		</model>
+</PropertyList>

@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PropertyList>
+<path>AL_07.ac</path>
+
+<model>
+	<path>WhiteLight6000.xml</path>
+    <offsets>
+      <x-m> -0.4 </x-m>
+      <y-m> 0 </y-m>
+      <z-m> 0.700 </z-m>
+      <pitch-deg> 0.00</pitch-deg>
+	  <heading-deg>0.0 </heading-deg>
+    </offsets>
+</model>
+<model>
+	<path>WhiteLight6000.xml</path>
+    <offsets>
+      <x-m> -60.4 </x-m>
+      <y-m> 0 </y-m>
+      <z-m> 0.700 </z-m>
+      <pitch-deg> 0.00</pitch-deg>
+	  <heading-deg>0.0 </heading-deg>
+    </offsets>
+</model>
+<model>
+	<path>WhiteLight6000.xml</path>
+    <offsets>
+      <x-m> -120.4 </x-m>
+      <y-m> 0 </y-m>
+      <z-m> 0.700 </z-m>
+      <pitch-deg> 0.00</pitch-deg>
+	  <heading-deg>0.0 </heading-deg>
+    </offsets>
+</model>
+<model>
+	<path>WhiteLight6000.xml</path>
+    <offsets>
+      <x-m> -180.4 </x-m>
+      <y-m> 0 </y-m>
+      <z-m> 0.900 </z-m>
+      <pitch-deg> 0.00</pitch-deg>
+	  <heading-deg>0.0 </heading-deg>
+    </offsets>
+</model>
+<model>
+	<path>WhiteLight6000.xml</path>
+    <offsets>
+      <x-m> -240.4 </x-m>
+      <y-m> 0 </y-m>
+      <z-m> 1.00 </z-m>
+      <pitch-deg> 0.00</pitch-deg>
+	  <heading-deg>0.0 </heading-deg>
+    </offsets>
+</model>
+<model>
+	<path>WhiteLight6000.xml</path>
+    <offsets>
+      <x-m> -300.4 </x-m>
+      <y-m> 0 </y-m>
+      <z-m> 1.20 </z-m>
+      <pitch-deg> 0.00</pitch-deg>
+	  <heading-deg>0.0 </heading-deg>
+    </offsets>
+</model>
+<model>
+	<path>WhiteLight6000.xml</path>
+    <offsets>
+      <x-m> -360.4 </x-m>
+      <y-m> 0 </y-m>
+      <z-m> 1.30 </z-m>
+      <pitch-deg> 0.00</pitch-deg>
+	  <heading-deg>0.0 </heading-deg>
+    </offsets>
+</model>
+<!-- poprzeczka prawa -->
+<model>
+	<path>WhiteLight6000.xml</path>
+    <offsets>
+      <x-m> -240.4 </x-m>
+      <y-m> -4.50 </y-m>
+      <z-m> 1.00 </z-m>
+      <pitch-deg> 0.00</pitch-deg>
+	  <heading-deg>0.0 </heading-deg>
+    </offsets>
+</model>
+<model>
+	<path>WhiteLight6000.xml</path>
+    <offsets>
+      <x-m> -240.4 </x-m>
+      <y-m> -5.7 </y-m>
+      <z-m> 1.00 </z-m>
+      <pitch-deg> 0.00</pitch-deg>
+	  <heading-deg>0.0 </heading-deg>
+    </offsets>
+</model>
+<model>
+	<path>WhiteLight6000.xml</path>
+    <offsets>
+      <x-m> -240.4 </x-m>
+      <y-m> -6.9 </y-m>
+      <z-m> 1.00 </z-m>
+      <pitch-deg> 0.00</pitch-deg>
+	  <heading-deg>0.0 </heading-deg>
+    </offsets>
+</model>
+<model>
+	<path>WhiteLight6000.xml</path>
+    <offsets>
+      <x-m> -240.4 </x-m>
+      <y-m> -8.1 </y-m>
+      <z-m> 1.00 </z-m>
+      <pitch-deg> 0.00</pitch-deg>
+	  <heading-deg>0.0 </heading-deg>
+    </offsets>
+</model>
+<model>
+	<path>WhiteLight6000.xml</path>
+    <offsets>
+      <x-m> -240.4 </x-m>
+      <y-m> -9.3 </y-m>
+      <z-m> 1.00 </z-m>
+      <pitch-deg> 0.00</pitch-deg>
+	  <heading-deg>0.0 </heading-deg>
+    </offsets>
+</model>
+
+<!-- Poprzeczka lewa -->
+
+<model>
+	<path>WhiteLight6000.xml</path>
+    <offsets>
+      <x-m> -240.4 </x-m>
+      <y-m> 4.50 </y-m>
+      <z-m> 1.00 </z-m>
+      <pitch-deg> 0.00</pitch-deg>
+	  <heading-deg>0.0 </heading-deg>
+    </offsets>
+</model>
+<model>
+	<path>WhiteLight6000.xml</path>
+    <offsets>
+      <x-m> -240.4 </x-m>
+      <y-m> 5.7 </y-m>
+      <z-m> 1.00 </z-m>
+      <pitch-deg> 0.00</pitch-deg>
+	  <heading-deg>0.0 </heading-deg>
+    </offsets>
+</model>
+<model>
+	<path>WhiteLight6000.xml</path>
+    <offsets>
+      <x-m> -240.4 </x-m>
+      <y-m> 6.9 </y-m>
+      <z-m> 1.00 </z-m>
+      <pitch-deg> 0.00</pitch-deg>
+	  <heading-deg>0.0 </heading-deg>
+    </offsets>
+</model>
+<model>
+	<path>WhiteLight6000.xml</path>
+    <offsets>
+      <x-m> -240.4 </x-m>
+      <y-m> 8.1 </y-m>
+      <z-m> 1.00 </z-m>
+      <pitch-deg> 0.00</pitch-deg>
+	  <heading-deg>0.0 </heading-deg>
+    </offsets>
+</model>
+<model>
+	<path>WhiteLight6000.xml</path>
+    <offsets>
+      <x-m> -240.4 </x-m>
+      <y-m> 9.3 </y-m>
+      <z-m> 1.00 </z-m>
+      <pitch-deg> 0.00</pitch-deg>
+	  <heading-deg>0.0 </heading-deg>
+    </offsets>
+</model>
+</PropertyList>

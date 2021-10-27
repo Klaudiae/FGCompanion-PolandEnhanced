@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PropertyList>
+<path>light_ground_1.ac</path>
+
+<animation>
+    <type>select</type>
+    <object-name>Plane</object-name>
+    <condition>
+		<or>
+       <greater-than>
+          <property>sim/time/sun-angle-rad</property>
+          <value>1.57</value>
+       </greater-than>
+       <less-than>
+			<property>environment/visibility-m</property>
+			<value>4500.00</value>
+	   </less-than>
+	   </or>
+    </condition>
+</animation>
+
+</PropertyList>

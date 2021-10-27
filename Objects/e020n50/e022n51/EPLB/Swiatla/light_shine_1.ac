@@ -1,0 +1,32 @@
+AC3Db
+MATERIAL "DefaultWhite" rgb 1 1 1  amb 1 1 1  emis 0 0 0  spec 0.5 0.5 0.5  shi 64  trans 0
+MATERIAL "GreenLight6000" rgb 0.3725 0.5647 0.4588 amb 0.465333 0.465333 0.465333 emis 1 1 1 spec 0.2 0.2 0.2 shi 128 trans 0
+OBJECT world
+kids 1
+OBJECT poly
+name "WhiteLight6000"
+loc 0 0 -0
+data 14
+WhiteLight6000
+texture "light_shine_1.png"
+texrep 1.000000 1.000000
+crease 30.000001
+numvert 4
+-5.245 10.55 -0
+5.245 0.06 -0
+-5.245 0.06 -0
+5.245 10.55 -0
+numsurf 2
+SURF 0x30
+mat 1
+refs 3
+0 1.015100002289 0.477339923382
+1 0.01610000059 0.0055999998
+2 1.015100002289 0.0055999998
+SURF 0x30
+mat 1
+refs 3
+1 0.01610000059 0.0055999998
+0 1.015100002289 0.477339923382
+3 0.01610000059 0.477339923382
+kids 0

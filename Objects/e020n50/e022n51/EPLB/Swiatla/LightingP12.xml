@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PropertyList>
+<path>LightingP12.ac</path>
+<model>
+	<path>Scenery/Objects/e020n50/e022n51/EPLB/Effects/pos_lamp_red_light_2st.xml</path>
+	<offsets>
+		<x-m> 0.00 </x-m>
+		<y-m> 0.00 </y-m>
+		<z-m> 23.50 </z-m>
+		<pitch-deg> 0.00 </pitch-deg>
+		<heading-deg> 0.00 </heading-deg>
+	</offsets>
+</model>
+</PropertyList>

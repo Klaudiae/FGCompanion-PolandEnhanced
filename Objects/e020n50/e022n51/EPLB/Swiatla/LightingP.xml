@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PropertyList>
+    <path>LightingP.ac</path>
+
+<model>
+	<!-- <path>WhiteLighting.xml</path> -->
+	<path>light_shine_1.xml</path>
+    <offsets>
+      <x-m> 0.3 </x-m>
+      <y-m> -0.5 </y-m>
+      <z-m> 18.10 </z-m>
+      <pitch-deg> 15.00</pitch-deg>
+	  <heading-deg> 0.0 </heading-deg>
+    </offsets>
+</model>
+<model>
+	<path>WhiteLighting.xml</path>
+    <offsets>
+      <x-m> 0.3 </x-m>
+      <y-m> 0.5 </y-m>
+      <z-m> 18.2 </z-m>
+      <pitch-deg> 0.00</pitch-deg>
+	  <heading-deg>0.0 </heading-deg>
+    </offsets>
+</model>
+
+<model>
+		<!-- <path>Models/Effects/pos_lamp_red_light_2st.xml</path> -->
+		<path>Scenery/Objects/e020n50/e022n51/EPLB/Effects/pos_lamp_red_light_2st.xml</path>
+		<offsets>
+			<x-m>  0.000 </x-m>
+			<y-m>  0.000 </y-m>
+			<z-m> 19.30 </z-m>
+			<pitch-deg> 0.00 </pitch-deg>
+			<heading-deg> 0.00 </heading-deg>
+		</offsets>
+	</model>
+<!-- Obstruction lamp glass illumination -->
+	<animation>
+		<type>material</type>
+		<object-name>red_light</object-name>
+		<condition>
+			<or>
+				<greater-than>
+					<property>/sim/time/sun-angle-rad</property>
+					<value>1.57</value>
+				</greater-than>
+				<less-than>
+					<property>environment/visibility-m</property>
+					<value>4500.00</value>
+				</less-than>
+			</or>
+		</condition>
+		<emission>
+			<red>0.8</red>
+			<green>0.8</green>
+			<blue>0.8</blue>
+		</emission>
+	</animation>
+
+</PropertyList>
+

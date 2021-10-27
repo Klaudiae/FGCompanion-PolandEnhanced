@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<groundnet>
+   <version>1</version>
+  <frequencies>
+    <TOWER>13643</TOWER>
+  </frequencies>
+  <parkingList>
+
+    <Parking index="0"
+             type="ga"
+             name="aeroclub"
+             number=""
+             lat="N51 13.786"
+             lon="E22 41.804"
+             heading="286.19"
+             radius="17.3"
+             airlineCodes="" />
+
+    <Parking index="1"
+             type="ga"
+             name="B"
+             number=""
+             lat="N51 14.175"
+             lon="E22 41.850"
+             heading="76.62"
+             radius="17.3"
+             airlineCodes="" />
+
+    <Parking index="2"
+             type="gate"
+             name="10"
+             number=""
+             lat="N51 14.280"
+             lon="E22 42.916"
+             heading="167.26"
+             radius="17.3"
+             airlineCodes="" />
+
+    <Parking index="3"
+             type="gate"
+             name="2"
+             number=""
+             lat="N51 14.186"
+             lon="E22 42.835"
+             heading="165.19"
+             radius="17.3"
+             airlineCodes="" />
+
+    <Parking index="4"
+             type="gate"
+             name="9"
+             number=""
+             lat="N51 14.197"
+             lon="E22 42.954"
+             heading="167.03"
+             radius="17.3"
+             airlineCodes="" />
+
+    <Parking index="5"
+             type="gate"
+             name="7"
+             number=""
+             lat="N51 14.192"
+             lon="E22 42.920"
+             heading="165.2"
+             radius="17.3"
+             airlineCodes="" />
+
+    <Parking index="6"
+             type="gate"
+             name="5"
+             number=""
+             lat="N51 14.188"
+             lon="E22 42.887"
+             heading="164.64"
+             radius="17.3"
+             airlineCodes="" />
+
+  </parkingList>
+  <TaxiNodes>
+  </TaxiNodes>
+  <TaxiWaySegments>
+  </TaxiWaySegments>
+</groundnet>
+

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PropertyList>
+<path>LightingP12b.ac</path>
+<animation>
+	<name>swiatlo</name>
+	<object-name>swiatlo1</object-name>
+	<object-name>swiatlo2</object-name>
+</animation>
+
+<animation>
+    <type>select</type>
+    <object-name>swiatlo</object-name>
+    <condition>
+		<or>
+       <greater-than>
+          <property>sim/time/sun-angle-rad</property>
+          <value>1.57</value>
+       </greater-than>
+       <less-than>
+			<property>environment/visibility-m</property>
+			<value>4500.00</value>
+	   </less-than>
+	   </or>
+    </condition>
+</animation>
+<!-- <animation>
+		<type>dist-scale</type>
+		<object-name>swiatlo</object-name>
+		<interpolation>
+			<entry>
+				<ind>0</ind>
+				<dep>0.025</dep>
+			</entry>
+			<entry>
+				<ind>300</ind>
+				<dep>0.1</dep>
+			</entry>
+			<entry>
+				<ind>1500</ind>
+				<dep>0.3</dep>
+			</entry>
+			<entry>
+				<ind>4000</ind>
+				<dep>1</dep>
+			</entry>
+			<entry>
+				<ind>10000</ind>
+				<dep>1.5</dep>
+			</entry>
+		</interpolation>
+	</animation> -->
+</PropertyList>

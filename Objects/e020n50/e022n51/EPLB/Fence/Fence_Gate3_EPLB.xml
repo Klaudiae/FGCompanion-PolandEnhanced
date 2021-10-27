@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PropertyList>
+
+<path>Fence_Gate3_EPLB.ac</path>
+
+<animation>
+  <type>range</type>
+  <min-m>0</min-m>
+  <max-m>6000</max-m>
+</animation>
+
+
+</PropertyList>
