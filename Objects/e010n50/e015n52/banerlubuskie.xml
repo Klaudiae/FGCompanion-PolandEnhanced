@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+	<path>banerlubuskie.ac</path>
+	
+
+ <path>banerlubuskie.ac</path>
+
+<animation>
+<type>material</type>
+<object-name>blah</object-name>
+<condition>
+<greater-than>
+<property>/sim/time/sun-angle-rad</property>
+<value>1.57</value>
+ </greater-than>
+</condition>
+
+<emission>
+ <red>0.3</red>
+ <green>0.3</green>
+ <blue>0.3</blue>
+</emission>
+<texture>baner.png</texture>
+ </animation>
+ 
+ <animation>
+<type>material</type>
+ <object-name>blah</object-name>
+<condition>
+ <less-than-equals>
+<property>/sim/time/sun-angle-rad</property>
+<value>1.57</value>
+ </less-than-equals>
+</condition>
+
+<emission>
+ <red>0</red>
+ <green>0</green>
+ <blue>0</blue>
+</emission>
+<texture>baner.png</texture>
+ </animation>
+
+	
+
+
+<!-- ########################## LOD ######################### -->
+
+	<animation>
+		<type>range</type>
+		<min-m>0</min-m>
+		<max-m>10000</max-m>
+	</animation>
+
+</PropertyList>

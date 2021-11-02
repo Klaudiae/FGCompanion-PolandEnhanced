@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+	<path>EPZG_hangar_blacha.ac</path>
+	
+
+ <path>EPZG_hangar_blacha.ac</path>
+
+<animation>
+<type>material</type>
+<object-name>hangar</object-name>
+<condition>
+<greater-than>
+<property>/sim/time/sun-angle-rad</property>
+<value>1.59</value>
+ </greater-than>
+</condition>
+
+<emission>
+ <red>0.4</red>
+ <green>0.4</green>
+ <blue>0.4</blue>
+</emission>
+<texture>EPZG_hangar_blacha_lm.png</texture>
+ </animation>
+ 
+ <animation>
+<type>material</type>
+ <object-name>hangar</object-name>
+<condition>
+ <less-than-equals>
+<property>/sim/time/sun-angle-rad</property>
+<value>1.59</value>
+ </less-than-equals>
+</condition>
+
+<emission>
+ <red>0</red>
+ <green>0</green>
+ <blue>0</blue>
+</emission>
+<texture>EPZG_hangar_blacha.png</texture>
+ </animation>
+
+	
+
+
+<!-- ########################## LOD ######################### -->
+
+	<animation>
+		<type>range</type>
+		<min-m>0</min-m>
+		<max-m>10000</max-m>
+	</animation>
+
+</PropertyList>
