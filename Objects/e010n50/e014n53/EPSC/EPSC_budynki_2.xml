@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+	<path>EPSC_budynki_2.ac</path>
+
+<!-- ########################## Red lights ######################### -->
+
+	<animation>
+		<type>select</type>
+		<object-name>red</object-name>
+		<condition>
+			<greater-than>
+				<property>/sim/time/sun-angle-rad</property>
+				<value>1.57</value>
+			</greater-than>
+		</condition>
+	</animation>
+
+	<animation>
+		<type>translate</type>
+		<object-name>red</object-name>
+		<offset-m>29.565</offset-m>
+		<axis>
+			<x>-20.45</x>
+			<y>-7.341</y>
+			<z>20.05</z>
+		</axis>
+	</animation>
+
+	<animation>
+		<type>billboard</type>
+		<object-name>red</object-name>
+		<spherical type="bool">true</spherical>
+	</animation>
+
+	<animation>
+		<type>dist-scale</type>
+		<object-name>red</object-name>
+		<interpolation>
+			<entry><ind>0</ind><dep>0.075</dep></entry>
+			<entry><ind>500</ind><dep>0.2</dep></entry>
+			<entry><ind>16000</ind><dep>1.5</dep></entry>
+		</interpolation>
+	</animation>
+
+<!-- ########################## LOD ######################### -->
+
+	<animation>
+		<type>range</type>
+                <object-name>Plane</object-name>
+		<min-m>0</min-m>
+		<max-m>5000</max-m>
+	</animation>
+
+</PropertyList>

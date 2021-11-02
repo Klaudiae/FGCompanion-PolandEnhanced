@@ -1,0 +1,15 @@
+<?xml version="1.0"?> <PropertyList> <path>EDAH.ac</path> <animation> <type>textranslate</type> <object-name>EDAH</object-name> <object-name>EDAH_glass</object-name> <property>/sim/time/sun-angle-rad</property> <factor>0.3125</factor> <step>1.6</step> <axis> <x>1</x> <y>0</y> </axis> </animation> <animation> <type>material</type> <object-name>EDAH</object-name> <object-name>EDAH_glass</object-name> <condition> <greater-than> <property>/sim/time/sun-angle-rad</property> <value>1.6</value> </greater-than> </condition> <emission> <red> 1.0 </red> <green> 1.0 </green> <blue> 1.0 </blue> </emission> </animation> <animation>
+ <type>material</type> 
+ <object-name>EDAH_title</object-name>
+ <condition>		
+  <greater-than>		
+   <property>/sim/time/sun-angle-rad</property>
+   <value>1.57</value>
+  </greater-than>
+ </condition>
+ <emission>	
+  <red>1</red>	
+  <green>1</green>	
+  <blue>1</blue>
+ </emission>
+</animation> </PropertyList>

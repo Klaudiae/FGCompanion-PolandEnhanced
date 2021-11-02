@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+	<path>apron_light_b.ac</path>
+
+	<animation>
+		<type>material</type>
+		<object-name>Circle</object-name>
+		<condition>
+			<less-than-equals>
+				<property>/sim/time/sun-angle-rad</property>
+				<value>1.59</value>
+			</less-than-equals>
+		</condition>
+		<global type="bool">true</global>
+		<emission>
+			<red>0</red>
+			<green>0</green>
+			<blue>0</blue>
+		</emission>
+		<texture>apron_light.rgb</texture>
+	</animation>
+
+	<animation>
+		<type>material</type>
+		<object-name>Circle</object-name>
+		<condition>
+			<greater-than>
+				<property>/sim/time/sun-angle-rad</property>
+				<value>1.59</value>
+			</greater-than>
+		</condition>
+		<global type="bool">true</global>
+		<emission>
+			<red>1</red>
+			<green>1</green>
+			<blue>1</blue>
+		</emission>
+		<texture>apron_light_n.rgb</texture>
+	</animation>
+	
+<!-- ########################## Red lights ######################### -->
+
+	<animation>
+		<type>select</type>
+		<object-name>red</object-name>
+		<condition>
+			<greater-than>
+				<property>/sim/time/sun-angle-rad</property>
+				<value>1.57</value>
+			</greater-than>
+		</condition>
+	</animation>
+
+	<animation>
+		<type>translate</type>
+		<object-name>red</object-name>
+		<offset-m>14.086</offset-m>
+		<axis>
+			<x>0.0</x>
+			<y>0.0</y>
+			<z>14.086</z>
+		</axis>
+	</animation>
+
+	<animation>
+		<type>billboard</type>
+		<object-name>red</object-name>
+		<spherical type="bool">true</spherical>
+	</animation>
+
+	<animation>
+		<type>dist-scale</type>
+		<object-name>red</object-name>
+		<interpolation>
+			<entry><ind>0</ind><dep>0.075</dep></entry>
+			<entry><ind>500</ind><dep>0.2</dep></entry>
+			<entry><ind>16000</ind><dep>1.5</dep></entry>
+		</interpolation>
+	</animation>
+
+<!-- ########################## LOD ######################### -->
+
+	<animation>
+		<type>range</type>
+                <object-name>lampy</object-name>
+		<min-m>0</min-m>
+		<max-m>500</max-m>
+	</animation>
+
+	<animation>
+		<type>range</type>
+                <object-name>Circle</object-name>
+		<min-m>0</min-m>
+		<max-m>2000</max-m>
+	</animation>
+
+</PropertyList>

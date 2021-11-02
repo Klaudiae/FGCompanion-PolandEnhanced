@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+	<path>M18B_Dromader_low_poly.ac</path>
+
+	<animation>
+		<type>range</type>
+		<min-m>0</min-m>
+		<max-m>3000</max-m>
+	</animation>
+
+	<animation>
+		<type>range</type>
+                <object-name>Dromader_h</object-name>
+		<min-m>0</min-m>
+		<max-m>500</max-m>
+	</animation>
+
+</PropertyList>
