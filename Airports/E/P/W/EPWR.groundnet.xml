@@ -1,0 +1,269 @@
+<?xml version="1.0"?>
+<groundnet>
+   <version>1</version>
+  <frequencies>
+    <TOWER>127225</TOWER>
+  </frequencies>
+  <parkingList>
+    <Parking index="0"
+             type="gate"
+             name=""
+             number="4"
+             lat="N51 6.266"
+             lon="E16 54.203"
+             heading="207.539"
+             radius="17.3"
+             airlineCodes="" />
+
+    <Parking index="1"
+             type="gate"
+             name=""
+             number="6"
+             lat="N51 6.265"
+             lon="E16 54.298"
+             heading="205.803"
+             radius="17.3"
+             airlineCodes="" />
+
+    <Parking index="2"
+             type="gate"
+             name=""
+             number="5"
+             lat="N51 6.264"
+             lon="E16 54.250"
+             heading="213.35"
+             radius="17.3"
+             airlineCodes="" />
+
+    <Parking index="3"
+             type="gate"
+             name=""
+             number="3"
+             lat="N51 6.266"
+             lon="E16 54.161"
+             heading="210.485"
+             radius="17.3"
+             airlineCodes="" />
+
+    <Parking index="4"
+             type="gate"
+             name=""
+             number="2"
+             lat="N51 6.263"
+             lon="E16 54.086"
+             heading="151.215"
+             radius="17.3"
+             airlineCodes="" />
+
+    <Parking index="5"
+             type="gate"
+             name=""
+             number="1"
+             lat="N51 6.260"
+             lon="E16 54.061"
+             heading="339.948"
+             radius="17.3"
+             airlineCodes="" />
+
+    <Parking index="6"
+             type="ga"
+             name="Grass"
+             number="1"
+             lat="N51 6.210"
+             lon="E16 54.191"
+             heading="0"
+             radius="17.3"
+             airlineCodes="" />
+
+    <Parking index="7"
+             type="ga"
+             name="Grass"
+             number="2"
+             lat="N51 6.208"
+             lon="E16 54.232"
+             heading="0"
+             radius="17.3"
+             airlineCodes="" />
+
+    <Parking index="8"
+             type="ga"
+             name="Grass"
+             number="3"
+             lat="N51 6.188"
+             lon="E16 54.148"
+             heading="0"
+             radius="17.3"
+             airlineCodes="" />
+
+    <Parking index="9"
+             type="ga"
+             name="Grass"
+             number="4"
+             lat="N51 6.188"
+             lon="E16 54.192"
+             heading="0"
+             radius="17.3"
+             airlineCodes="" />
+
+    <Parking index="10"
+             type="ga"
+             name="Grass"
+             number="5"
+             lat="N51 6.184"
+             lon="E16 54.232"
+             heading="0"
+             radius="17.3"
+             airlineCodes="" />
+
+    <Parking index="11"
+             type="gate"
+             name=""
+             number="12"
+             lat="N51 6.480"
+             lon="E16 52.967"
+             heading="202.73"
+             radius="17.3"
+             airlineCodes="" />
+
+    <Parking index="12"
+             type="gate"
+             name=""
+             number="11"
+             lat="N51 6.493"
+             lon="E16 52.927"
+             heading="210.761"
+             radius="17.3"
+             airlineCodes="" />
+
+    <Parking index="13"
+             type="mil-cargo"
+             name="Apron4-"
+             number="1"
+             lat="N51 6.001"
+             lon="E16 52.914"
+             heading="36.3654"
+             radius="17.3"
+             airlineCodes="" />
+
+    <Parking index="14"
+             type="mil-fighter"
+             name="Apron4-"
+             number="2"
+             lat="N51 5.973"
+             lon="E16 52.966"
+             heading="38.1572"
+             radius="17.3"
+             airlineCodes="" />
+
+    <Parking index="15"
+             type="ga"
+             name="Apron4-"
+             number="3"
+             lat="N51 5.940"
+             lon="E16 53.028"
+             heading="37.4277"
+             radius="17.3"
+             airlineCodes="" />
+
+    <Parking index="16"
+             type="mil-cargo"
+             name="Apron4-"
+             number="4"
+             lat="N51 5.908"
+             lon="E16 53.093"
+             heading="42.5438"
+             radius="17.3"
+             airlineCodes="" />
+
+    <Parking index="17"
+             type="gate"
+             name="Apron3-"
+             number="52"
+             lat="N51 5.791"
+             lon="E16 53.799"
+             heading="304.297"
+             radius="17.3"
+             airlineCodes="" />
+
+    <Parking index="18"
+             type="gate"
+             name="Apron3-"
+             number="51"
+             lat="N51 5.813"
+             lon="E16 53.818"
+             heading="300.733"
+             radius="17.3"
+             airlineCodes="" />
+
+    <Parking index="19"
+             type="gate"
+             name="Terminal-"
+             number="A1"
+             lat="N51 6.499"
+             lon="E16 52.882"
+             heading="32.7144"
+             radius="17.3"
+             airlineCodes="" />
+
+    <Parking index="20"
+             type="gate"
+             name="Terminal-"
+             number="A2"
+             lat="N51 6.508"
+             lon="E16 52.847"
+             heading="25.5671"
+             radius="17.3"
+             airlineCodes="" />
+
+    <Parking index="21"
+             type="gate"
+             name="Terminal-"
+             number="A3"
+             lat="N51 6.519"
+             lon="E16 52.813"
+             heading="33.7755"
+             radius="17.3"
+             airlineCodes="" />
+
+    <Parking index="22"
+             type="gate"
+             name="Terminal-"
+             number="A4"
+             lat="N51 6.530"
+             lon="E16 52.780"
+             heading="29.4444"
+             radius="17.3"
+             airlineCodes="" />
+
+    <Parking index="23"
+             type="gate"
+             name="Terminal-"
+             number="A5"
+             lat="N51 6.541"
+             lon="E16 52.748"
+             heading="22.6199"
+             radius="17.3"
+             airlineCodes="" />
+
+    <Parking index="24"
+             type="gate"
+             name="Terminal-"
+             number="A6"
+             lat="N51 6.552"
+             lon="E16 52.716"
+             heading="29.5022"
+             radius="17.3"
+             airlineCodes="" />
+
+    <Parking index="25"
+             type="gate"
+             name="LPR-"
+             number="H"
+             lat="N51 6.178"
+             lon="E16 53.918"
+             heading="0"
+             radius="17.3"
+             airlineCodes="" />
+
+  </parkingList>
+</groundnet>
