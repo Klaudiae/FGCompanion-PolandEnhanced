@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<PropertyList>
+    <path>taxi.ac</path>
+    <animation>
+        <type>noshadow</type>
+    <object-name>Light</object-name>
+    </animation>
+<animation>
+    <type>select</type>
+    <object-name>Light</object-name>
+    <condition>
+       <greater-than>
+          <property>sim/time/sun-angle-rad</property>
+          <value>1.57</value>
+       </greater-than>
+    </condition>
+</animation>
+    <animation>
+	  <type>range</type>
+	  <min-m>0</min-m>
+	  <max-m>9999999</max-m>
+    </animation>
+
+  <animation>
+    <type>dist-scale</type>
+    <object-name>Light</object-name>
+    <interpolation>
+      <entry>
+        <ind>0</ind>
+        <dep>1</dep>
+      </entry>
+      <entry>
+        <ind>300</ind>
+        <dep>1</dep>
+      </entry>
+      <entry>
+        <ind>1500</ind>
+        <dep>2</dep>
+      </entry>
+      <entry>
+        <ind>4000</ind>
+        <dep>3</dep>
+      </entry>
+      <entry>
+        <ind>90000</ind>
+        <dep>4</dep>
+      </entry>
+    </interpolation>
+  </animation>
+</PropertyList>

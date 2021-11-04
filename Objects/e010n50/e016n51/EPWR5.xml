@@ -1,0 +1,30 @@
+<PropertyList>
+ <path>Epwr5.ac</path> 
+ <animation>
+  <type>timed</type>
+  <object-name>PL</object-name>
+  <min-m>100</min-m> 
+  <max-m>3000</max-m> 
+  <use-personality type="bool">true</use-personality>
+  <branch-duration-sec>0.1</branch-duration-sec>
+  <branch-duration-sec>0.1</branch-duration-sec>
+ </animation>
+ <animation>
+  <type>timed</type>
+  <object-name>EU</object-name>
+  <min-m>100</min-m> 
+  <max-m>3000</max-m> 
+  <use-personality type="bool">true</use-personality>
+  <branch-duration-sec>0.1</branch-duration-sec>
+  <branch-duration-sec>0.1</branch-duration-sec>
+ </animation> 
+ <animation>
+  <type>timed</type>
+  <object-name>WR</object-name>
+  <min-m>100</min-m> 
+  <max-m>3000</max-m> 
+  <use-personality type="bool">true</use-personality>
+  <branch-duration-sec>0.1</branch-duration-sec>
+  <branch-duration-sec>0.1</branch-duration-sec>
+ </animation>
+</PropertyList>

@@ -1,0 +1,33 @@
+<PropertyList>
+ <path>wierza_2.ac</path> 
+  <animation>
+    <type>dist-scale</type>
+    <object-name>RedLight10000</object-name>
+    <interpolation>
+      <entry>
+        <ind>0</ind>
+        <dep>0.2</dep>
+      </entry>
+      <entry>
+        <ind>300</ind>
+        <dep>0.3</dep>
+      </entry>
+      <entry>
+        <ind>1500</ind>
+        <dep>0.4</dep>
+      </entry>
+      <entry>
+        <ind>4000</ind>
+        <dep>1</dep>
+      </entry>
+      <entry>
+        <ind>10000</ind>
+        <dep>2.5</dep>
+      </entry>
+      <entry>
+        <ind>90000</ind>
+        <dep>5.5</dep>
+      </entry>
+    </interpolation>
+  </animation>
+</PropertyList>

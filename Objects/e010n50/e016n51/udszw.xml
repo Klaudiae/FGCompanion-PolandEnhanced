@@ -1,0 +1,13 @@
+<PropertyList>
+ <path>udszw.ac</path> 
+ <animation>
+  <type>timed</type>
+  <object-name>pom</object-name>
+  <object-name>pom1</object-name>
+  <min-m>0</min-m> 
+  <max-m>4000</max-m> 
+  <use-personality type="bool">true</use-personality>
+  <branch-duration-sec>0.5</branch-duration-sec>
+  <branch-duration-sec>0.5</branch-duration-sec>
+ </animation>
+</PropertyList>

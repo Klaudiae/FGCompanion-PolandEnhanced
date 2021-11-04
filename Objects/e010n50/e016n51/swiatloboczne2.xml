@@ -1,0 +1,8 @@
+<PropertyList>
+ <path>swiatlo2_2.ac</path> 
+    <animation>
+	  <type>range</type>
+	  <min-m>0</min-m>
+	  <max-m>700</max-m>
+    </animation>
+</PropertyList>

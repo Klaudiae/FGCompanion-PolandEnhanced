@@ -1,0 +1,8 @@
+<PropertyList>
+ <path>taxi1_2.ac</path> 
+    <animation>
+	  <type>range</type>
+	  <min-m>0</min-m>
+	  <max-m>170</max-m>
+    </animation>
+</PropertyList>

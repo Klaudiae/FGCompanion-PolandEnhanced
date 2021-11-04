@@ -1,0 +1,5432 @@
+AC3Db
+MATERIAL "ac3dmat1" rgb 1 1 1  amb 0.2 0.2 0.2  emis 0 0 0  spec 0.2 0.2 0.2  shi 128  trans 0
+MATERIAL "NoName" rgb 1 1 0.8  amb 1 1 0.8  emis 0 0 0  spec 0 0 0  shi 2  trans 0
+OBJECT world
+kids 276
+OBJECT poly
+name "Plane"
+loc 1.41994 -0.230026 3247.82
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+193.631 16.3249 -324.955
+193.631 0 -324.955
+194.475 0 -334.599
+194.475 16.3249 -334.599
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 23.2444 -0.230026 3201.02
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+177.151 16.3249 -339.24
+177.151 0 -339.24
+176.308 0 -329.597
+176.308 16.3249 -329.597
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc -4.51772 -0.230026 3217.35
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+184.412 16.3249 -330.73
+184.412 0 -330.73
+183.568 0 -321.087
+183.568 16.3249 -321.087
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 17.3069 -0.230026 3170.55
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+166.245 16.3249 -325.729
+166.245 0 -325.729
+167.088 0 -335.372
+167.088 16.3249 -335.372
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 38.6902 -0.230026 3168.3
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+165.03 16.3249 -342.55
+165.03 0 -342.55
+164.187 0 -332.907
+164.187 16.3249 -332.907
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 6.03249 -0.230026 3111.74
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+217.454 16.3249 -469.249
+217.454 0 -469.249
+218.298 0 -478.891
+218.298 16.3249 -478.891
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc -15.3508 -0.230026 3113.99
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+220.356 16.3249 -471.714
+220.356 0 -471.714
+219.512 0 -462.071
+219.512 16.3249 -462.071
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc -37.1754 -0.230026 3160.79
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+236.836 16.3249 -457.428
+236.836 0 -457.428
+237.68 0 -467.072
+237.68 16.3249 -467.072
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc -59 -0.230026 3207.59
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+255.003 16.3249 -462.43
+255.003 0 -462.43
+254.16 0 -452.787
+254.16 16.3249 -452.787
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc -80.8247 -0.230026 3254.4
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+271.483 16.3249 -448.145
+271.483 0 -448.145
+272.327 0 -457.788
+272.327 16.3249 -457.788
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc -102.649 -0.230026 3301.2
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+289.651 16.3249 -453.146
+289.651 0 -453.146
+288.807 0 -443.503
+288.807 16.3249 -443.503
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc -9.4131 -0.230026 3144.46
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+229.575 16.3249 -465.939
+229.575 0 -465.939
+230.419 0 -475.582
+230.419 16.3249 -475.582
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc -31.2378 -0.230026 3191.26
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+247.742 16.3249 -470.94
+247.742 0 -470.94
+246.899 0 -461.297
+246.899 16.3249 -461.297
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc -53.0624 -0.230026 3238.06
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+264.222 16.3249 -456.655
+264.222 0 -456.655
+265.066 0 -466.298
+265.066 16.3249 -466.298
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc -74.887 -0.230026 3284.86
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+282.39 16.3249 -461.656
+282.39 0 -461.656
+281.546 0 -452.013
+281.546 16.3249 -452.013
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 169.797 -0.230026 2633.95
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-2.04544 16.3249 4.38623
+-2.04544 0 4.38623
+2.0455 0 -4.38672
+2.0455 16.3249 -4.38672
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 191.621 -0.230026 2587.14
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+2.0455 16.3249 -4.38647
+2.0455 0 -4.38647
+-2.04544 0 4.38647
+-2.04544 16.3249 4.38647
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 213.446 -0.230026 2540.34
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-2.0455 16.3249 4.38672
+-2.0455 0 4.38672
+2.0455 0 -4.38672
+2.0455 16.3249 -4.38672
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 163.859 -0.230026 2603.48
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+2.04544 16.3249 -4.38647
+2.04544 0 -4.38647
+-2.04556 0 4.38623
+-2.04556 16.3249 4.38623
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 185.684 -0.230026 2556.68
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-2.04544 16.3249 4.38647
+-2.04544 0 4.38647
+2.04556 0 -4.38647
+2.04556 16.3249 -4.38647
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 207.508 -0.230026 2509.87
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+2.04544 16.3249 -4.38647
+2.04544 0 -4.38647
+-2.04544 0 4.38647
+-2.04544 16.3249 4.38647
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 234.724 -0.230026 2472.6
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.840576 16.3249 -4.76685
+0.840576 0 -4.76685
+-0.840469 0 4.7666
+-0.840469 16.3249 4.7666
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 243.691 -0.230026 2421.75
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.84053 16.3249 4.7666
+-0.84053 0 4.7666
+0.840393 0 -4.76636
+0.840393 16.3249 -4.76636
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 252.658 -0.230026 2370.89
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.840515 16.3249 -4.76636
+0.840515 0 -4.76636
+-0.840408 0 4.76636
+-0.840408 16.3249 4.76636
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 261.626 -0.230026 2320.03
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.840607 16.3249 4.7666
+-0.840607 0 4.7666
+0.840424 0 -4.7666
+0.840424 16.3249 -4.7666
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 270.593 -0.230026 2269.18
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.840485 16.3249 -4.7666
+0.840485 0 -4.7666
+-0.840515 0 4.76636
+-0.840515 16.3249 4.76636
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 279.561 -0.230026 2218.32
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.840332 16.3249 4.76611
+-0.840332 0 4.76611
+0.840485 0 -4.7666
+0.840485 16.3249 -4.7666
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 288.528 -0.230026 2167.46
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.840515 16.3249 -4.76636
+0.840515 0 -4.76636
+-0.840424 0 4.7666
+-0.840424 16.3249 4.7666
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 297.496 -0.230026 2116.6
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.840607 16.3249 4.7666
+-0.840607 0 4.7666
+0.840393 0 -4.76636
+0.840393 16.3249 -4.76636
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 306.463 -0.230026 2065.75
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.840607 16.3249 -4.76685
+0.840607 0 -4.76685
+-0.840393 0 4.76636
+-0.840393 16.3249 4.76636
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 315.431 -0.230026 2014.89
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.840454 16.3249 4.76636
+-0.840454 0 4.76636
+0.840485 0 -4.76636
+0.840485 16.3249 -4.76636
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 324.398 -0.230026 1964.03
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.840546 16.3249 -4.7666
+0.840546 0 -4.7666
+-0.840454 0 4.76648
+-0.840454 16.3249 4.76648
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 333.366 -0.230026 1913.18
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.840485 16.3249 4.76648
+-0.840485 0 4.76648
+0.840424 0 -4.76648
+0.840424 16.3249 -4.76648
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 221.102 -0.230026 2444.71
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.840469 16.3249 4.7666
+-0.840469 0 4.7666
+0.84053 0 -4.7666
+0.84053 16.3249 -4.7666
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 230.07 -0.230026 2393.85
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.840408 16.3249 -4.76636
+0.840408 0 -4.76636
+-0.84053 0 4.76636
+-0.84053 16.3249 4.76636
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 239.037 -0.230026 2343
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.840347 16.3249 4.76611
+-0.840347 0 4.76611
+0.840591 0 -4.7666
+0.840591 16.3249 -4.7666
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 248.005 -0.230026 2292.14
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.84053 16.3249 -4.76636
+0.84053 0 -4.76636
+-0.840408 0 4.7666
+-0.840408 16.3249 4.7666
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 256.972 -0.230026 2241.28
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.840485 16.3249 4.7666
+-0.840485 0 4.7666
+0.840515 0 -4.76636
+0.840515 16.3249 -4.76636
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 265.94 -0.230026 2190.42
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.840454 16.3249 -4.76685
+0.840454 0 -4.76685
+-0.840454 0 4.76636
+-0.840454 16.3249 4.76636
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 274.907 -0.230026 2139.57
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.840332 16.3249 4.76636
+-0.840332 0 4.76636
+0.840576 0 -4.7666
+0.840576 16.3249 -4.7666
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 283.875 -0.230026 2088.71
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.840393 16.3249 -4.76611
+0.840393 0 -4.76611
+-0.840546 0 4.7666
+-0.840546 16.3249 4.7666
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 292.842 -0.230026 2037.85
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.840393 16.3249 4.7666
+-0.840393 0 4.7666
+0.840515 0 -4.76636
+0.840515 16.3249 -4.76636
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 301.809 -0.230026 1987
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.840454 16.3249 -4.7666
+0.840454 0 -4.7666
+-0.840454 0 4.76636
+-0.840454 16.3249 4.76636
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 310.777 -0.230026 1936.14
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.840424 16.3249 4.76648
+-0.840424 0 4.76648
+0.840485 0 -4.76636
+0.840485 16.3249 -4.76636
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 319.744 -0.230026 1885.28
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.840485 16.3249 -4.7666
+0.840485 0 -4.7666
+-0.840454 0 4.76648
+-0.840454 16.3249 4.76648
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 339.818 -0.230026 1877.58
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.840454 16.3249 4.76636
+-0.840454 0 4.76636
+0.840485 0 -4.76636
+0.840485 16.3249 -4.76636
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 348.785 -0.230026 1826.72
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.840454 16.3249 -4.76648
+0.840454 0 -4.76648
+-0.840454 0 4.76648
+-0.840454 16.3249 4.76648
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 357.752 -0.230026 1775.86
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.840393 16.3249 4.76648
+-0.840393 0 4.76648
+0.840454 0 -4.76636
+0.840454 16.3249 -4.76636
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 366.72 -0.230026 1725.01
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.840454 16.3249 -4.7666
+0.840454 0 -4.7666
+-0.840454 0 4.76636
+-0.840454 16.3249 4.76636
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 375.687 -0.230026 1674.15
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.840454 16.3249 4.76648
+-0.840454 0 4.76648
+0.840485 0 -4.76648
+0.840485 16.3249 -4.76648
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 384.655 -0.230026 1623.29
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.840485 16.3249 -4.76636
+0.840485 0 -4.76636
+-0.840424 0 4.7666
+-0.840424 16.3249 4.7666
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 393.622 -0.230026 1572.44
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.840393 16.3249 4.76636
+-0.840393 0 4.76636
+0.840515 0 -4.7666
+0.840515 16.3249 -4.7666
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 326.196 -0.230026 1849.68
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.840515 16.3249 -4.7666
+0.840515 0 -4.7666
+-0.840393 0 4.76636
+-0.840393 16.3249 4.76636
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 335.164 -0.230026 1798.83
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.840454 16.3249 4.76648
+-0.840454 0 4.76648
+0.840424 0 -4.76648
+0.840424 16.3249 -4.76648
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 344.131 -0.230026 1747.97
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.840515 16.3249 -4.76648
+0.840515 0 -4.76648
+-0.840454 0 4.76648
+-0.840454 16.3249 4.76648
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 353.099 -0.230026 1697.11
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.840485 16.3249 4.76636
+-0.840485 0 4.76636
+0.840424 0 -4.76648
+0.840424 16.3249 -4.76648
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 362.066 -0.230026 1646.26
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.840485 16.3249 -4.76636
+0.840485 0 -4.76636
+-0.840454 0 4.7666
+-0.840454 16.3249 4.7666
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 371.034 -0.230026 1595.4
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.840454 16.3249 4.76636
+-0.840454 0 4.76636
+0.840454 0 -4.7666
+0.840454 16.3249 -4.7666
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 380.001 -0.230026 1544.54
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.840485 16.3249 -4.7666
+0.840485 0 -4.7666
+-0.840485 0 4.76636
+-0.840485 16.3249 4.76636
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 474.098 -0.230026 1507.28
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+101.248 16.3249 -373.531
+101.248 0 -373.531
+102.929 0 -363.998
+102.929 16.3249 -363.998
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 483.066 -0.230026 1456.42
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+84.994 16.3249 -363.998
+84.994 0 -363.998
+83.313 0 -373.531
+83.313 16.3249 -373.531
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 460.477 -0.230026 1479.39
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+94.2101 16.3249 -357.657
+94.2101 0 -357.657
+92.5292 0 -367.19
+92.5292 16.3249 -367.19
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 469.445 -0.230026 1428.53
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+74.5942 16.3249 -367.19
+74.5942 0 -367.19
+76.2751 0 -357.657
+76.2751 16.3249 -357.657
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 489.518 -0.230026 1420.82
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+72.4296 16.3249 -364.058
+72.4296 0 -364.058
+70.7487 0 -373.591
+70.7487 16.3249 -373.591
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 443.333 -0.230026 1374.64
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+86.9133 16.3249 -519.073
+86.9133 0 -519.073
+88.5942 0 -509.54
+88.5942 16.3249 -509.54
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 423.26 -0.230026 1382.34
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+92.4398 16.3249 -503.14
+92.4398 0 -503.14
+90.7589 0 -512.673
+90.7589 16.3249 -512.673
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 414.292 -0.230026 1433.2
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+108.694 16.3249 -512.673
+108.694 0 -512.673
+110.375 0 -503.14
+110.375 16.3249 -503.14
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 405.325 -0.230026 1484.06
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+128.31 16.3249 -503.14
+128.31 0 -503.14
+126.629 0 -512.673
+126.629 16.3249 -512.673
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 396.357 -0.230026 1534.91
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+144.564 16.3249 -512.673
+144.564 0 -512.673
+146.244 0 -503.14
+146.244 16.3249 -503.14
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 387.39 -0.230026 1585.77
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+164.179 16.3249 -503.14
+164.179 0 -503.14
+162.498 0 -512.673
+162.498 16.3249 -512.673
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 436.881 -0.230026 1410.24
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+99.4777 16.3249 -519.013
+99.4777 0 -519.013
+101.159 0 -509.481
+101.159 16.3249 -509.481
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 427.913 -0.230026 1461.09
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+119.093 16.3249 -509.48
+119.093 0 -509.48
+117.413 0 -519.013
+117.413 16.3249 -519.013
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 418.946 -0.230026 1511.95
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+135.347 16.3249 -519.014
+135.347 0 -519.014
+137.028 0 -509.481
+137.028 16.3249 -509.481
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 409.978 -0.230026 1562.81
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+154.963 16.3249 -509.481
+154.963 0 -509.481
+153.282 0 -519.014
+153.282 16.3249 -519.014
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 477.855 -0.230026 870.742
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.840515 16.3249 -4.76648
+0.840515 0 -4.76648
+-0.840393 0 4.76648
+-0.840393 16.3249 4.76648
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 486.823 -0.230026 819.885
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.840454 16.3249 4.76648
+-0.840454 0 4.76648
+0.840454 0 -4.76636
+0.840454 16.3249 -4.76636
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 495.79 -0.230026 769.029
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.840454 16.3249 -4.76636
+0.840454 0 -4.76636
+-0.840454 0 4.7666
+-0.840454 16.3249 4.7666
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 464.234 -0.230026 842.849
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.840515 16.3249 4.76648
+-0.840515 0 4.76648
+0.840454 0 -4.76648
+0.840454 16.3249 -4.76648
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 473.201 -0.230026 791.992
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.840515 16.3249 -4.76648
+0.840515 0 -4.76648
+-0.840454 0 4.76648
+-0.840454 16.3249 4.76648
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 482.169 -0.230026 741.135
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.840515 16.3249 4.76648
+-0.840515 0 4.76648
+0.840393 0 -4.76648
+0.840393 16.3249 -4.76648
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 498.811 -0.230027 698.091
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.421875 16.3249 4.82166
+0.421875 0 4.82166
+-0.421753 0 -4.82166
+-0.421753 16.3249 -4.82166
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 494.31 -0.230027 646.646
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.421814 16.3249 -4.82141
+-0.421814 0 -4.82141
+0.421814 0 4.82166
+0.421814 16.3249 4.82166
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 489.809 -0.230027 595.201
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.421875 16.3249 4.82153
+0.421875 0 4.82153
+-0.421753 0 -4.82166
+-0.421753 16.3249 -4.82166
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 485.308 -0.230027 543.756
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.421814 16.3249 -4.82153
+-0.421814 0 -4.82153
+0.421814 0 4.82166
+0.421814 16.3249 4.82166
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 480.807 -0.230027 492.311
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.421814 16.3249 4.82166
+0.421814 0 4.82166
+-0.421814 0 -4.82166
+-0.421814 16.3249 -4.82166
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 476.306 -0.230027 440.866
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.421814 16.3249 -4.82166
+-0.421814 0 -4.82166
+0.421875 0 4.82141
+0.421875 16.3249 4.82141
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 471.806 -0.230027 389.421
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.421875 16.3249 4.82153
+0.421875 0 4.82153
+-0.421753 0 -4.82166
+-0.421753 16.3249 -4.82166
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 467.305 -0.230027 337.977
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.421875 16.3249 -4.82166
+-0.421875 0 -4.82166
+0.421753 0 4.82153
+0.421753 16.3249 4.82153
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 462.804 -0.230027 286.531
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.421814 16.3249 4.82166
+0.421814 0 4.82166
+-0.421814 0 -4.82153
+-0.421814 16.3249 -4.82153
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 458.303 -0.230027 235.087
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.421844 16.3249 -4.82166
+-0.421844 0 -4.82166
+0.421844 0 4.82153
+0.421844 16.3249 4.82153
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 453.802 -0.230027 183.642
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.421875 16.3249 4.82159
+0.421875 0 4.82159
+-0.421814 0 -4.82159
+-0.421814 16.3249 -4.82159
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 449.301 -0.230027 132.197
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.421844 16.3249 -4.82159
+-0.421844 0 -4.82159
+0.421844 0 4.82159
+0.421844 16.3249 4.82159
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 478.434 -0.230027 674.673
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.421814 16.3249 -4.82166
+-0.421814 0 -4.82166
+0.421875 0 4.82153
+0.421875 16.3249 4.82153
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 473.933 -0.230027 623.228
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.421814 16.3249 4.82153
+0.421814 0 4.82153
+-0.421875 0 -4.82153
+-0.421875 16.3249 -4.82153
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 469.432 -0.230027 571.783
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.421753 16.3249 -4.82166
+-0.421753 0 -4.82166
+0.421875 0 4.82153
+0.421875 16.3249 4.82153
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 464.932 -0.230027 520.338
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.421814 16.3249 4.82153
+0.421814 0 4.82153
+-0.421814 0 -4.82153
+-0.421814 16.3249 -4.82153
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 460.431 -0.230027 468.893
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.421753 16.3249 -4.82153
+-0.421753 0 -4.82153
+0.421875 0 4.82166
+0.421875 16.3249 4.82166
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 455.93 -0.230027 417.448
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.421783 16.3249 4.82166
+0.421783 0 4.82166
+-0.421875 0 -4.82153
+-0.421875 16.3249 -4.82153
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 451.429 -0.230027 366.004
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.421814 16.3249 -4.82166
+-0.421814 0 -4.82166
+0.421814 0 4.82153
+0.421814 16.3249 4.82153
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 446.928 -0.230027 314.559
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.421814 16.3249 4.82166
+0.421814 0 4.82166
+-0.421814 0 -4.82153
+-0.421814 16.3249 -4.82153
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 442.427 -0.230027 263.114
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.421783 16.3249 -4.82159
+-0.421783 0 -4.82159
+0.421875 0 4.82159
+0.421875 16.3249 4.82159
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 437.927 -0.230027 211.669
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.421814 16.3249 4.82159
+0.421814 0 4.82159
+-0.421875 0 -4.82159
+-0.421875 16.3249 -4.82159
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 433.426 -0.230027 160.224
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.421783 16.3249 -4.82159
+-0.421783 0 -4.82159
+0.421844 0 4.82159
+0.421844 16.3249 4.82159
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 428.925 -0.230027 108.779
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.421844 16.3249 4.82159
+0.421844 0 4.82159
+-0.421844 0 -4.82159
+-0.421844 16.3249 -4.82159
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 446.32 -0.230027 96.1414
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.421783 16.3249 -4.82159
+-0.421783 0 -4.82159
+0.421844 0 4.82159
+0.421844 16.3249 4.82159
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 441.819 -0.230027 44.6964
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.421844 16.3249 4.82159
+0.421844 0 4.82159
+-0.421844 0 -4.82159
+-0.421844 16.3249 -4.82159
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 437.318 -0.230027 -6.7485
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.421814 16.3249 -4.82156
+-0.421814 0 -4.82156
+0.421875 0 4.82158
+0.421875 16.3249 4.82158
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 432.817 -0.230027 -58.1935
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.421814 16.3249 4.82158
+0.421814 0 4.82158
+-0.421844 0 -4.82159
+-0.421844 16.3249 -4.82159
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 428.317 -0.230027 -109.638
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.421814 16.3249 -4.82156
+-0.421814 0 -4.82156
+0.421814 0 4.82162
+0.421814 16.3249 4.82162
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 423.816 -0.230027 -161.083
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.421875 16.3249 4.82156
+0.421875 0 4.82156
+-0.421814 0 -4.82159
+-0.421814 16.3249 -4.82159
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 419.315 -0.230027 -212.528
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.421783 16.3249 -4.82159
+-0.421783 0 -4.82159
+0.421875 0 4.82156
+0.421875 16.3249 4.82156
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 425.944 -0.230027 72.7236
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.421875 16.3249 4.82156
+0.421875 0 4.82156
+-0.421814 0 -4.82159
+-0.421814 16.3249 -4.82159
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 421.443 -0.230027 21.2786
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.421875 16.3249 -4.82156
+-0.421875 0 -4.82156
+0.421814 0 4.82158
+0.421814 16.3249 4.82158
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 416.942 -0.230027 -30.1663
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.421844 16.3249 4.82156
+0.421844 0 4.82156
+-0.421783 0 -4.82162
+-0.421783 16.3249 -4.82162
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 412.441 -0.230027 -81.6113
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.421844 16.3249 -4.82158
+-0.421844 0 -4.82158
+0.421814 0 4.82159
+0.421814 16.3249 4.82159
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 407.94 -0.230027 -133.056
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.421875 16.3249 4.82158
+0.421875 0 4.82158
+-0.421783 0 -4.82156
+-0.421783 16.3249 -4.82156
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 403.439 -0.230027 -184.501
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.421844 16.3249 -4.82159
+-0.421844 0 -4.82159
+0.421814 0 4.82159
+0.421814 16.3249 4.82159
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 398.938 -0.230027 -235.946
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.421814 16.3249 4.82152
+0.421814 0 4.82152
+-0.421814 0 -4.82159
+-0.421814 16.3249 -4.82159
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 542.63 -0.230026 1654.06
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+31.7551 16.3249 -217.33
+31.7551 0 -217.33
+40.5282 0 -221.421
+40.5282 16.3249 -221.421
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 522.557 -0.230026 1661.76
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+42.7766 16.3249 -241.15
+42.7766 0 -241.15
+34.0034 0 -237.059
+34.0034 16.3249 -237.059
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 513.59 -0.230026 1712.62
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-3.83206 16.3249 -266.091
+-3.83206 0 -266.091
+4.94104 0 -270.182
+4.94104 16.3249 -270.182
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 504.622 -0.230026 1763.48
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-32.8946 16.3249 -299.214
+-32.8946 0 -299.214
+-41.6677 0 -295.123
+-41.6677 16.3249 -295.123
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 495.655 -0.230026 1814.33
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-79.5033 16.3249 -324.156
+-79.5033 0 -324.156
+-70.7302 0 -328.247
+-70.7302 16.3249 -328.247
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 486.687 -0.230026 1865.19
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-108.566 16.3249 -357.279
+-108.566 0 -357.279
+-117.339 0 -353.188
+-117.339 16.3249 -353.188
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 536.178 -0.230026 1689.66
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+5.34589 16.3249 -237.795
+5.34589 0 -237.795
+14.119 0 -241.886
+14.119 16.3249 -241.886
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 527.211 -0.230026 1740.51
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-23.7164 16.3249 -270.919
+-23.7164 0 -270.919
+-32.4896 0 -266.828
+-32.4896 16.3249 -266.828
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 518.243 -0.230026 1791.37
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-70.3253 16.3249 -295.86
+-70.3253 0 -295.86
+-61.5521 0 -299.951
+-61.5521 16.3249 -299.951
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 509.276 -0.230026 1842.23
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-99.3877 16.3249 -328.983
+-99.3877 0 -328.983
+-108.161 0 -324.892
+-108.161 16.3249 -324.892
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 463.091 -0.230026 1796.04
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+138.799 16.3249 -363.998
+138.799 0 -363.998
+137.118 0 -373.531
+137.118 16.3249 -373.531
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 472.059 -0.230026 1745.19
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+119.183 16.3249 -373.531
+119.183 0 -373.531
+120.864 0 -363.998
+120.864 16.3249 -363.998
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 481.026 -0.230026 1694.33
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+102.929 16.3249 -363.998
+102.929 0 -363.998
+101.248 0 -373.531
+101.248 16.3249 -373.531
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 489.993 -0.230026 1643.47
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+83.313 16.3249 -373.531
+83.313 0 -373.531
+84.994 0 -363.998
+84.994 16.3249 -363.998
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 440.502 -0.230026 1819.01
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+148.015 16.3249 -357.657
+148.015 0 -357.657
+146.334 0 -367.19
+146.334 16.3249 -367.19
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 449.47 -0.230026 1768.15
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+128.399 16.3249 -367.19
+128.399 0 -367.19
+130.08 0 -357.657
+130.08 16.3249 -357.657
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 458.437 -0.230026 1717.29
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+112.145 16.3249 -357.657
+112.145 0 -357.657
+110.464 0 -367.19
+110.464 16.3249 -367.19
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 467.405 -0.230026 1666.43
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+92.5292 16.3249 -367.19
+92.5292 0 -367.19
+94.2101 0 -357.657
+94.2101 16.3249 -357.657
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 476.372 -0.230026 1615.58
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+76.2751 16.3249 -357.657
+76.2751 0 -357.657
+74.5942 0 -367.19
+74.5942 16.3249 -367.19
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 496.445 -0.230026 1607.87
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+70.7487 16.3249 -373.591
+70.7487 0 -373.591
+72.4296 0 -364.058
+72.4296 16.3249 -364.058
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 450.261 -0.230026 1561.69
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+88.5942 16.3249 -509.54
+88.5942 0 -509.54
+86.9133 0 -519.073
+86.9133 16.3249 -519.073
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 430.187 -0.230026 1569.39
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+90.7589 16.3249 -512.672
+90.7589 0 -512.672
+92.4398 0 -503.14
+92.4398 16.3249 -503.14
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 421.22 -0.230026 1620.25
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+110.375 16.3249 -503.14
+110.375 0 -503.14
+108.694 0 -512.672
+108.694 16.3249 -512.672
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 412.253 -0.230026 1671.11
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+126.629 16.3249 -512.673
+126.629 0 -512.673
+128.31 0 -503.14
+128.31 16.3249 -503.14
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 403.285 -0.230026 1721.96
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+146.245 16.3249 -503.14
+146.245 0 -503.14
+144.564 0 -512.673
+144.564 16.3249 -512.673
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 394.318 -0.230026 1772.82
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+162.498 16.3249 -512.673
+162.498 0 -512.673
+164.179 0 -503.14
+164.179 16.3249 -503.14
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 443.809 -0.230026 1597.29
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+101.159 16.3249 -509.48
+101.159 0 -509.48
+99.4776 0 -519.013
+99.4776 16.3249 -519.013
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 434.841 -0.230026 1648.14
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+117.413 16.3249 -519.014
+117.413 0 -519.014
+119.093 0 -509.48
+119.093 16.3249 -509.48
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 425.874 -0.230026 1699
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+137.028 16.3249 -509.481
+137.028 0 -509.481
+135.347 0 -519.014
+135.347 16.3249 -519.014
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 416.906 -0.230026 1749.86
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+153.282 16.3249 -519.013
+153.282 0 -519.013
+154.963 0 -509.48
+154.963 16.3249 -509.48
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 86.5314 -0.230026 3267.46
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.840576 16.3249 -4.7666
+0.840576 0 -4.7666
+-0.840393 0 4.76636
+-0.840393 16.3249 4.76636
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 95.4989 -0.230026 3216.6
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.840393 16.3249 4.7666
+-0.840393 0 4.7666
+0.840515 0 -4.76636
+0.840515 16.3249 -4.76636
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 104.466 -0.230026 3165.74
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.840607 16.3249 -4.7666
+0.840607 0 -4.7666
+-0.840332 0 4.76611
+-0.840332 16.3249 4.76611
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 113.434 -0.230026 3114.89
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.840393 16.3249 4.7666
+-0.840393 0 4.7666
+0.840576 0 -4.76636
+0.840576 16.3249 -4.76636
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 122.401 -0.230026 3064.03
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.840515 16.3249 -4.76636
+0.840515 0 -4.76636
+-0.840424 0 4.7666
+-0.840424 16.3249 4.7666
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 131.369 -0.230026 3013.17
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.840424 16.3249 4.7666
+-0.840424 0 4.7666
+0.840546 0 -4.76636
+0.840546 16.3249 -4.76636
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 140.336 -0.230026 2962.32
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.840576 16.3249 -4.76636
+0.840576 0 -4.76636
+-0.840393 0 4.7666
+-0.840393 16.3249 4.7666
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 149.304 -0.230026 2911.46
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.840515 16.3249 4.76636
+-0.840515 0 4.76636
+0.840424 0 -4.7666
+0.840424 16.3249 -4.7666
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 158.271 -0.230026 2860.6
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.840546 16.3249 -4.76636
+0.840546 0 -4.76636
+-0.840424 0 4.7666
+-0.840424 16.3249 4.7666
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 167.238 -0.230026 2809.75
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.840454 16.3249 4.76636
+-0.840454 0 4.76636
+0.840485 0 -4.7666
+0.840485 16.3249 -4.7666
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 176.206 -0.230026 2758.89
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.840546 16.3249 -4.76636
+0.840546 0 -4.76636
+-0.840424 0 4.7666
+-0.840424 16.3249 4.7666
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 185.173 -0.230026 2708.03
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.840485 16.3249 4.76636
+-0.840485 0 4.76636
+0.840485 0 -4.76636
+0.840485 16.3249 -4.76636
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 72.9103 -0.230026 3239.56
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.840393 16.3249 4.76636
+-0.840393 0 4.76636
+0.840424 0 -4.7666
+0.840424 16.3249 -4.7666
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 81.8777 -0.230026 3188.71
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.840424 16.3249 -4.76636
+0.840424 0 -4.76636
+-0.840454 0 4.7666
+-0.840454 16.3249 4.7666
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 90.8452 -0.230026 3137.85
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.840393 16.3249 4.76636
+-0.840393 0 4.76636
+0.840546 0 -4.7666
+0.840546 16.3249 -4.7666
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 99.8126 -0.230026 3086.99
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.840515 16.3249 -4.76636
+0.840515 0 -4.76636
+-0.840424 0 4.7666
+-0.840424 16.3249 4.7666
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 108.78 -0.230026 3036.14
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.840424 16.3249 4.76636
+-0.840424 0 4.76636
+0.840515 0 -4.7666
+0.840515 16.3249 -4.7666
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 117.748 -0.230026 2985.28
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.840393 16.3249 -4.7666
+0.840393 0 -4.7666
+-0.840515 0 4.76636
+-0.840515 16.3249 4.76636
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 126.715 -0.230026 2934.42
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.840424 16.3249 4.76636
+-0.840424 0 4.76636
+0.840546 0 -4.7666
+0.840546 16.3249 -4.7666
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 135.682 -0.230026 2883.57
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.840515 16.3249 -4.7666
+0.840515 0 -4.7666
+-0.840454 0 4.76636
+-0.840454 16.3249 4.76636
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 144.65 -0.230026 2832.71
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.840424 16.3249 4.7666
+-0.840424 0 4.7666
+0.840515 0 -4.7666
+0.840515 16.3249 -4.7666
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 153.617 -0.230026 2781.85
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.840393 16.3249 -4.7666
+0.840393 0 -4.7666
+-0.840515 0 4.7666
+-0.840515 16.3249 4.7666
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 162.585 -0.230026 2731
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.840424 16.3249 4.7666
+-0.840424 0 4.7666
+0.840515 0 -4.76636
+0.840515 16.3249 -4.76636
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 171.552 -0.230026 2680.14
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.840454 16.3249 -4.76636
+0.840454 0 -4.76636
+-0.840515 0 4.7666
+-0.840515 16.3249 4.7666
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 191.625 -0.230026 2672.43
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.840424 16.3249 4.7666
+-0.840424 0 4.7666
+0.840546 0 -4.76636
+0.840546 16.3249 -4.76636
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 200.593 -0.230026 2621.58
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.840454 16.3249 -4.76636
+0.840454 0 -4.76636
+-0.840515 0 4.7666
+-0.840515 16.3249 4.7666
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 209.56 -0.230026 2570.72
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.840454 16.3249 4.7666
+-0.840454 0 4.7666
+0.840515 0 -4.76636
+0.840515 16.3249 -4.76636
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 218.528 -0.230026 2519.86
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.840454 16.3249 -4.76611
+0.840454 0 -4.76611
+-0.840515 0 4.7666
+-0.840515 16.3249 4.7666
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 227.495 -0.230026 2469.01
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.840454 16.3249 4.76636
+-0.840454 0 4.76636
+0.840454 0 -4.76636
+0.840454 16.3249 -4.76636
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 236.463 -0.230026 2418.15
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.840454 16.3249 -4.7666
+0.840454 0 -4.7666
+-0.840393 0 4.76636
+-0.840393 16.3249 4.76636
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 245.43 -0.230026 2367.29
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.840393 16.3249 4.76636
+-0.840393 0 4.76636
+0.840576 0 -4.7666
+0.840576 16.3249 -4.7666
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 254.398 -0.230026 2316.44
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.840454 16.3249 -4.7666
+0.840454 0 -4.7666
+-0.840393 0 4.76636
+-0.840393 16.3249 4.76636
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 263.365 -0.230026 2265.58
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.840393 16.3249 4.76636
+-0.840393 0 4.76636
+0.840515 0 -4.76636
+0.840515 16.3249 -4.76636
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 272.332 -0.230026 2214.72
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.840515 16.3249 -4.76636
+0.840515 0 -4.76636
+-0.840393 0 4.76636
+-0.840393 16.3249 4.76636
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 281.3 -0.230026 2163.86
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.840454 16.3249 4.76636
+-0.840454 0 4.76636
+0.840454 0 -4.76636
+0.840454 16.3249 -4.76636
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 290.267 -0.230026 2113.01
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.840454 16.3249 -4.76636
+0.840454 0 -4.76636
+-0.840454 0 4.7666
+-0.840454 16.3249 4.7666
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 178.004 -0.230026 2644.54
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.840454 16.3249 -4.7666
+0.840454 0 -4.7666
+-0.840393 0 4.76636
+-0.840393 16.3249 4.76636
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 186.972 -0.230026 2593.68
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.840485 16.3249 4.7666
+-0.840485 0 4.7666
+0.840424 0 -4.7666
+0.840424 16.3249 -4.7666
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 195.939 -0.230026 2542.83
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.840485 16.3249 -4.7666
+0.840485 0 -4.7666
+-0.840424 0 4.76636
+-0.840424 16.3249 4.76636
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 204.907 -0.230026 2491.97
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.840485 16.3249 4.7666
+-0.840485 0 4.7666
+0.840424 0 -4.7666
+0.840424 16.3249 -4.7666
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 213.874 -0.230026 2441.11
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.840515 16.3249 -4.76636
+0.840515 0 -4.76636
+-0.840393 0 4.76636
+-0.840393 16.3249 4.76636
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 222.841 -0.230026 2390.26
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.840454 16.3249 4.7666
+-0.840454 0 4.7666
+0.840515 0 -4.7666
+0.840515 16.3249 -4.7666
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 231.809 -0.230026 2339.4
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.840515 16.3249 -4.7666
+0.840515 0 -4.7666
+-0.840454 0 4.7666
+-0.840454 16.3249 4.7666
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 240.776 -0.230026 2288.54
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.840515 16.3249 4.7666
+-0.840515 0 4.7666
+0.840454 0 -4.7666
+0.840454 16.3249 -4.7666
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 249.744 -0.230026 2237.68
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.840454 16.3249 -4.76636
+0.840454 0 -4.76636
+-0.840454 0 4.7666
+-0.840454 16.3249 4.7666
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 258.711 -0.230026 2186.83
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.840515 16.3249 4.7666
+-0.840515 0 4.7666
+0.840454 0 -4.76636
+0.840454 16.3249 -4.76636
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 267.679 -0.230026 2135.97
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.840515 16.3249 -4.76636
+0.840515 0 -4.76636
+-0.840454 0 4.7666
+-0.840454 16.3249 4.7666
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 276.646 -0.230026 2085.11
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.840515 16.3249 4.7666
+-0.840515 0 4.7666
+0.840393 0 -4.76636
+0.840393 16.3249 -4.76636
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 298.982 -0.230026 2110.53
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.840393 16.3249 4.76636
+-0.840393 0 4.76636
+0.840576 0 -4.7666
+0.840576 16.3249 -4.7666
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 307.949 -0.230026 2059.67
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.840515 16.3249 -4.76636
+0.840515 0 -4.76636
+-0.840393 0 4.7666
+-0.840393 16.3249 4.7666
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 316.917 -0.230026 2008.81
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.840332 16.3249 4.76611
+-0.840332 0 4.76611
+0.840607 0 -4.76672
+0.840607 16.3249 -4.76672
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 325.884 -0.230026 1957.96
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.840576 16.3249 -4.76636
+0.840576 0 -4.76636
+-0.840393 0 4.76648
+-0.840393 16.3249 4.76648
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 334.852 -0.230026 1907.1
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.840424 16.3249 4.7666
+-0.840424 0 4.7666
+0.840515 0 -4.76636
+0.840515 16.3249 -4.76636
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 343.819 -0.230026 1856.24
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.840546 16.3249 -4.76648
+0.840546 0 -4.76648
+-0.840424 0 4.76648
+-0.840424 16.3249 4.76648
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 352.786 -0.230026 1805.39
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.840393 16.3249 4.76648
+-0.840393 0 4.76648
+0.840576 0 -4.76648
+0.840576 16.3249 -4.76648
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 361.754 -0.230026 1754.53
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.840424 16.3249 -4.7666
+0.840424 0 -4.7666
+-0.840515 0 4.76636
+-0.840515 16.3249 4.76636
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 370.721 -0.230026 1703.67
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.840424 16.3249 4.7666
+-0.840424 0 4.7666
+0.840546 0 -4.76636
+0.840546 16.3249 -4.76636
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 379.689 -0.230026 1652.82
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.840485 16.3249 -4.7666
+0.840485 0 -4.7666
+-0.840454 0 4.76636
+-0.840454 16.3249 4.76636
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 388.656 -0.230026 1601.96
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.840424 16.3249 4.76648
+-0.840424 0 4.76648
+0.840546 0 -4.76648
+0.840546 16.3249 -4.76648
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 397.624 -0.230026 1551.1
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.840485 16.3249 -4.76648
+0.840485 0 -4.76648
+-0.840485 0 4.76648
+-0.840485 16.3249 4.76648
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 285.361 -0.230026 2082.63
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.840424 16.3249 -4.7666
+0.840424 0 -4.7666
+-0.840393 0 4.76636
+-0.840393 16.3249 4.76636
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 294.328 -0.230026 2031.78
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.840454 16.3249 4.7666
+-0.840454 0 4.7666
+0.840424 0 -4.76636
+0.840424 16.3249 -4.76636
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 303.296 -0.230026 1980.92
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.840546 16.3249 -4.76648
+0.840546 0 -4.76648
+-0.840393 0 4.76648
+-0.840393 16.3249 4.76648
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 312.263 -0.230026 1930.06
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.840424 16.3249 4.7666
+-0.840424 0 4.7666
+0.840515 0 -4.76624
+0.840515 16.3249 -4.76624
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 321.23 -0.230026 1879.21
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.840515 16.3249 -4.76648
+0.840515 0 -4.76648
+-0.840424 0 4.76636
+-0.840424 16.3249 4.76636
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 330.198 -0.230026 1828.35
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.840515 16.3249 4.76648
+-0.840515 0 4.76648
+0.840393 0 -4.76648
+0.840393 16.3249 -4.76648
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 339.165 -0.230026 1777.49
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.840546 16.3249 -4.7666
+0.840546 0 -4.7666
+-0.840424 0 4.76636
+-0.840424 16.3249 4.76636
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 348.133 -0.230026 1726.64
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.840454 16.3249 4.76648
+-0.840454 0 4.76648
+0.840515 0 -4.76648
+0.840515 16.3249 -4.76648
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 357.1 -0.230026 1675.78
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.840515 16.3249 -4.76648
+0.840515 0 -4.76648
+-0.840424 0 4.76648
+-0.840424 16.3249 4.76648
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 366.068 -0.230026 1624.92
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.840515 16.3249 4.76648
+-0.840515 0 4.76648
+0.840393 0 -4.76648
+0.840393 16.3249 -4.76648
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 375.035 -0.230026 1574.06
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.840515 16.3249 -4.76636
+0.840515 0 -4.76636
+-0.840424 0 4.7666
+-0.840424 16.3249 4.7666
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 384.003 -0.230026 1523.21
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.840515 16.3249 4.7666
+-0.840515 0 4.7666
+0.840454 0 -4.76636
+0.840454 16.3249 -4.76636
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 404.076 -0.230026 1515.5
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.840546 16.3249 -4.76636
+0.840546 0 -4.76636
+-0.840424 0 4.7666
+-0.840424 16.3249 4.7666
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 484.783 -0.230026 1057.79
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.840424 16.3249 4.76648
+-0.840424 0 4.76648
+0.840485 0 -4.76648
+0.840485 16.3249 -4.76648
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 493.75 -0.230026 1006.93
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.840454 16.3249 -4.76642
+0.840454 0 -4.76642
+-0.840424 0 4.76648
+-0.840424 16.3249 4.76648
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 502.718 -0.230026 956.077
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.840454 16.3249 4.76654
+-0.840454 0 4.76654
+0.840454 0 -4.76642
+0.840454 16.3249 -4.76642
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 471.162 -0.230026 1029.9
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.840424 16.3249 -4.76648
+0.840424 0 -4.76648
+-0.840515 0 4.76648
+-0.840515 16.3249 4.76648
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 480.129 -0.230026 979.04
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.840454 16.3249 4.76648
+-0.840454 0 4.76648
+0.840515 0 -4.76648
+0.840515 16.3249 -4.76648
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 489.096 -0.230026 928.183
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.840424 16.3249 -4.76642
+0.840424 0 -4.76642
+-0.840485 0 4.76654
+-0.840485 16.3249 4.76654
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 505.738 -0.230027 885.14
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.421783 16.3249 -4.82166
+-0.421783 0 -4.82166
+0.421844 0 4.82159
+0.421844 16.3249 4.82159
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 501.238 -0.230027 833.695
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.421844 16.3249 4.82166
+0.421844 0 4.82166
+-0.421844 0 -4.82147
+-0.421844 16.3249 -4.82147
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 496.737 -0.230027 782.25
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.421814 16.3249 -4.82166
+-0.421814 0 -4.82166
+0.421875 0 4.82147
+0.421875 16.3249 4.82147
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 492.236 -0.230027 730.805
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.421814 16.3249 4.82166
+0.421814 0 4.82166
+-0.421844 0 -4.82159
+-0.421844 16.3249 -4.82159
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 487.735 -0.230027 679.36
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.421814 16.3249 -4.82166
+-0.421814 0 -4.82166
+0.421814 0 4.82159
+0.421814 16.3249 4.82159
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 483.234 -0.230027 627.915
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.421875 16.3249 4.82147
+0.421875 0 4.82147
+-0.421844 0 -4.82166
+-0.421844 16.3249 -4.82166
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 478.733 -0.230027 576.47
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.421783 16.3249 -4.82159
+-0.421783 0 -4.82159
+0.421875 0 4.82153
+0.421875 16.3249 4.82153
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 474.232 -0.230027 525.025
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.421814 16.3249 4.82153
+0.421814 0 4.82153
+-0.421875 0 -4.82166
+-0.421875 16.3249 -4.82166
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 469.732 -0.230027 473.58
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.421783 16.3249 -4.82159
+-0.421783 0 -4.82159
+0.421844 0 4.82159
+0.421844 16.3249 4.82159
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 465.231 -0.230027 422.135
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.421844 16.3249 4.82153
+0.421844 0 4.82153
+-0.421844 0 -4.82166
+-0.421844 16.3249 -4.82166
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 460.73 -0.230027 370.69
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.421814 16.3249 -4.82159
+-0.421814 0 -4.82159
+0.421875 0 4.82159
+0.421875 16.3249 4.82159
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 456.229 -0.230027 319.245
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.421844 16.3249 4.82159
+0.421844 0 4.82159
+-0.421844 0 -4.82159
+-0.421844 16.3249 -4.82159
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 485.362 -0.230027 861.722
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.421844 16.3249 4.82147
+0.421844 0 4.82147
+-0.421844 0 -4.82166
+-0.421844 16.3249 -4.82166
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 480.861 -0.230027 810.277
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.421875 16.3249 -4.82153
+-0.421875 0 -4.82153
+0.421783 0 4.82159
+0.421783 16.3249 4.82159
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 476.36 -0.230027 758.832
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.421844 16.3249 4.82153
+0.421844 0 4.82153
+-0.421783 0 -4.82166
+-0.421783 16.3249 -4.82166
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 471.859 -0.230027 707.387
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.421844 16.3249 -4.82147
+-0.421844 0 -4.82147
+0.421814 0 4.82159
+0.421814 16.3249 4.82159
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 467.359 -0.230027 655.942
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.421875 16.3249 4.82166
+0.421875 0 4.82166
+-0.421814 0 -4.82153
+-0.421814 16.3249 -4.82153
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 462.858 -0.230027 604.497
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.421875 16.3249 -4.82153
+-0.421875 0 -4.82153
+0.421783 0 4.82159
+0.421783 16.3249 4.82159
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 458.357 -0.230027 553.052
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.421814 16.3249 4.82153
+0.421814 0 4.82153
+-0.421814 0 -4.82166
+-0.421814 16.3249 -4.82166
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 453.856 -0.230027 501.607
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.421814 16.3249 -4.82159
+-0.421814 0 -4.82159
+0.421814 0 4.82159
+0.421814 16.3249 4.82159
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 449.355 -0.230027 450.162
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.421875 16.3249 4.82159
+0.421875 0 4.82159
+-0.421783 0 -4.82159
+-0.421783 16.3249 -4.82159
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 444.854 -0.230027 398.717
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.421875 16.3249 -4.82159
+-0.421875 0 -4.82159
+0.421814 0 4.82159
+0.421814 16.3249 4.82159
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 440.353 -0.230027 347.272
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.421844 16.3249 4.82159
+0.421844 0 4.82159
+-0.421783 0 -4.82159
+-0.421783 16.3249 -4.82159
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 435.853 -0.230027 295.827
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.421844 16.3249 -4.82159
+-0.421844 0 -4.82159
+0.421844 0 4.82159
+0.421844 16.3249 4.82159
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 453.248 -0.230027 283.19
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.421844 16.3249 4.82159
+0.421844 0 4.82159
+-0.421783 0 -4.82159
+-0.421783 16.3249 -4.82159
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 448.747 -0.230027 231.745
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.421844 16.3249 -4.82156
+-0.421844 0 -4.82156
+0.421844 0 4.82162
+0.421844 16.3249 4.82162
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 444.246 -0.230027 180.3
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.421875 16.3249 4.82158
+0.421875 0 4.82158
+-0.421814 0 -4.82156
+-0.421814 16.3249 -4.82156
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 439.745 -0.230027 128.855
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.421844 16.3249 -4.82159
+-0.421844 0 -4.82159
+0.421814 0 4.82158
+0.421814 16.3249 4.82158
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 435.244 -0.230027 77.4102
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.421814 16.3249 4.82162
+0.421814 0 4.82162
+-0.421814 0 -4.82156
+-0.421814 16.3249 -4.82156
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 430.743 -0.230027 25.9653
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.421814 16.3249 -4.82159
+-0.421814 0 -4.82159
+0.421875 0 4.82156
+0.421875 16.3249 4.82156
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 426.243 -0.230027 -25.4797
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.421875 16.3249 4.82156
+0.421875 0 4.82156
+-0.421783 0 -4.82159
+-0.421783 16.3249 -4.82159
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 421.742 -0.230027 -76.9246
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.421875 16.3249 -4.82159
+-0.421875 0 -4.82159
+0.421844 0 4.82153
+0.421844 16.3249 4.82153
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 417.241 -0.230027 -128.37
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.421844 16.3249 4.82156
+0.421844 0 4.82156
+-0.421783 0 -4.82156
+-0.421783 16.3249 -4.82156
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 412.74 -0.230027 -179.815
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.421844 16.3249 -4.82159
+-0.421844 0 -4.82159
+0.421844 0 4.82156
+0.421844 16.3249 4.82156
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 408.239 -0.230027 -231.26
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.421875 16.3249 4.82159
+0.421875 0 4.82159
+-0.421814 0 -4.82153
+-0.421814 16.3249 -4.82153
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 403.738 -0.230027 -282.704
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.421844 16.3249 -4.82153
+-0.421844 0 -4.82153
+0.421844 0 4.82166
+0.421844 16.3249 4.82166
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 432.871 -0.230027 259.772
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.421814 16.3249 -4.82159
+-0.421814 0 -4.82159
+0.421875 0 4.82156
+0.421875 16.3249 4.82156
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 428.37 -0.230027 208.327
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.421814 16.3249 4.82159
+0.421814 0 4.82159
+-0.421875 0 -4.82156
+-0.421875 16.3249 -4.82156
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 423.87 -0.230027 156.882
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.421783 16.3249 -4.82162
+-0.421783 0 -4.82162
+0.421844 0 4.82156
+0.421844 16.3249 4.82156
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 419.369 -0.230027 105.437
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.421814 16.3249 4.82159
+0.421814 0 4.82159
+-0.421844 0 -4.82158
+-0.421844 16.3249 -4.82158
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 414.868 -0.230027 53.9924
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.421783 16.3249 -4.82156
+-0.421783 0 -4.82156
+0.421875 0 4.82158
+0.421875 16.3249 4.82158
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 410.367 -0.230027 2.54744
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.421814 16.3249 4.82159
+0.421814 0 4.82159
+-0.421844 0 -4.82159
+-0.421844 16.3249 -4.82159
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 405.866 -0.230027 -48.8975
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.421814 16.3249 -4.82159
+-0.421814 0 -4.82159
+0.421814 0 4.82153
+0.421814 16.3249 4.82153
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 401.365 -0.230027 -100.342
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.421814 16.3249 4.82156
+0.421814 0 4.82156
+-0.421814 0 -4.82156
+-0.421814 16.3249 -4.82156
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 396.864 -0.230027 -151.787
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.421814 16.3249 -4.82156
+-0.421814 0 -4.82156
+0.421844 0 4.82156
+0.421844 16.3249 4.82156
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 392.364 -0.230027 -203.232
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.421783 16.3249 4.82159
+0.421783 0 4.82159
+-0.421875 0 -4.82156
+-0.421875 16.3249 -4.82156
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 387.863 -0.230027 -254.677
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+-0.421783 16.3249 -4.82155
+-0.421783 0 -4.82155
+0.421844 0 4.82159
+0.421844 16.3249 4.82159
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 383.362 -0.230027 -306.122
+texture "deciduous-tree.rgb"
+crease 45.000000
+numvert 4
+0.421814 16.3249 4.82159
+0.421814 0 4.82159
+-0.421844 0 -4.82153
+-0.421844 16.3249 -4.82153
+numsurf 1
+SURF 0x0
+mat 1
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "box"
+loc 255.153 9.87806 1609.14
+texture "Trawa.PNG"
+crease 45.000000
+numvert 26
+169.629 0 -1893.22
+194.878 0 1703.94
+227.37 0 -85.1177
+791.3 0 -446.148
+354.395 10.1082 -131.742
+354.395 -10.1082 -131.742
+742.036 0 1054.34
+227.37 10.1082 -85.1177
+194.878 10.1082 1703.94
+-147.408 0 1698.94
+791.3 -10.1082 -446.148
+194.878 -10.1082 1703.94
+169.629 10.1082 -1893.22
+356.894 0 -136.739
+169.629 -10.1082 -1893.22
+791.3 10.1082 -446.148
+479.32 0 -1673.46
+227.37 -10.1082 -85.1177
+-147.408 -10.1082 1698.94
+356.894 -10.1082 -136.739
+479.32 -10.1082 -1673.46
+742.036 -10.1082 1054.34
+742.036 10.1082 1054.34
+479.32 10.1082 -1673.46
+356.894 10.1082 -136.739
+-147.408 10.1082 1698.94
+numsurf 24
+SURF 0x30
+mat 0
+refs 4
+14 1 0.5
+20 1 1
+10 0.5 1
+5 0.5 0.5
+SURF 0x30
+mat 0
+refs 4
+15 1 0.5
+23 1 1
+12 0.5 1
+4 0.5 0.5
+SURF 0x30
+mat 0
+refs 4
+10 1 0.5
+20 1 1
+16 0.5 1
+3 0.5 0.5
+SURF 0x30
+mat 0
+refs 4
+16 0.5 1
+23 0 1
+15 0 0.5
+3 0.5 0.5
+SURF 0x30
+mat 0
+refs 4
+12 0 0.5
+23 0 0
+16 0.5 0
+0 0.5 0.5
+SURF 0x30
+mat 0
+refs 4
+16 0.5 0
+20 1 0
+14 1 0.5
+0 0.5 0.5
+SURF 0x30
+mat 0
+refs 4
+14 1 0.5
+19 1 1
+13 0.5 1
+0 0.5 0.5
+SURF 0x30
+mat 0
+refs 4
+13 0.5 1
+24 0 1
+12 0 0.5
+0 0.5 0.5
+SURF 0x30
+mat 0
+refs 4
+6 0.5 1
+22 0 1
+8 0 0.5
+1 0.5 0.5
+SURF 0x30
+mat 0
+refs 4
+11 1 0.5
+21 1 1
+6 0.5 1
+1 0.5 0.5
+SURF 0x30
+mat 0
+refs 4
+9 0.5 0
+18 1 0
+11 1 0.5
+1 0.5 0.5
+SURF 0x30
+mat 0
+refs 4
+8 0 0.5
+25 0 0
+9 0.5 0
+1 0.5 0.5
+SURF 0x30
+mat 0
+refs 4
+9 0.5 1
+25 0 1
+7 0 0.5
+2 0.5 0.5
+SURF 0x30
+mat 0
+refs 4
+17 1 0.5
+18 1 1
+9 0.5 1
+2 0.5 0.5
+SURF 0x30
+mat 0
+refs 4
+13 0.5 0
+19 1 0
+17 1 0.5
+2 0.5 0.5
+SURF 0x30
+mat 0
+refs 4
+7 0 0.5
+24 0 0
+13 0.5 0
+2 0.5 0.5
+SURF 0x30
+mat 0
+refs 4
+6 0.5 0
+21 1 0
+10 1 0.5
+3 0.5 0.5
+SURF 0x30
+mat 0
+refs 4
+15 0 0.5
+22 0 0
+6 0.5 0
+3 0.5 0.5
+SURF 0x30
+mat 0
+refs 4
+12 0.5 1
+24 0 1
+7 0 0.5
+4 0.5 0.5
+SURF 0x30
+mat 0
+refs 4
+8 0.5 0
+22 1 0
+15 1 0.5
+4 0.5 0.5
+SURF 0x30
+mat 0
+refs 4
+7 0 0.5
+25 0 0
+8 0.5 0
+4 0.5 0.5
+SURF 0x30
+mat 0
+refs 4
+10 0.5 1
+21 0 1
+11 0 0.5
+5 0.5 0.5
+SURF 0x30
+mat 0
+refs 4
+17 0.5 0
+19 1 0
+14 1 0.5
+5 0.5 0.5
+SURF 0x30
+mat 0
+refs 4
+11 0 0.5
+18 0 0
+17 0.5 0
+5 0.5 0.5
+kids 0

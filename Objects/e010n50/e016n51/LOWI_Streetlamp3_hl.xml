@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<PropertyList>
+
+<path>LOWI_Streetlamp3.ac</path>
+
+<!-- LOD 
+	<animation>
+		<type>range</type>
+		<min-m>0</min-m>
+		<max-m>10000</max-m>
+	</animation>
+	-->
+
+<!-- REMBRANDT light -->
+
+	<!-- Floodlights outside -->
+	<animation>
+		<type>light</type>
+		<light-type>spot</light-type>
+		<name>LightSource</name>
+		<object-name>LightVolume</object-name>
+		<position>
+			<x>-0.000</x>
+			<y> 0.000</y>
+			<z> 0.200</z>
+		</position>
+		<direction>
+			<x>-11.000</x>
+			<y>  0.000</y>
+			<z>-16.000</z>
+		</direction>
+		<ambient>
+			<r>0.5</r>
+			<g>0.5</g>
+			<b>0.5</b>
+			<a>1.0</a>
+		</ambient>
+		<diffuse>
+			<r>0.6</r>
+			<g>0.505</g>
+			<b>0.6</b>
+			<a>1.0</a>
+		</diffuse>
+		<specular>
+			<r>0.6</r>
+			<g>0.6</g>
+			<b>0.6</b>
+			<a>1.0</a>
+		</specular>
+		<attenuation>
+			<c>1.0</c>
+			<l>0.0002</l>
+			<q>0.00005</q>
+		</attenuation>
+		<exponent>8.0</exponent>
+		<cutoff>90</cutoff>
+		<near-m>1.0</near-m>
+		<far-m>300</far-m>
+	</animation>
+
+	<animation>
+	<type>select</type>
+	<object-name>LightSource</object-name>
+		<condition>
+			<and>
+			<greater-than>
+				<property>/sim/time/sun-angle-rad</property>
+				<value>1.45</value>
+			</greater-than>
+			<property>/sim/rendering/rembrandt/enabled</property>
+			<greater-than>
+				<property>/sim/rendering/shaders/lights</property>
+				<value>0.0</value>
+			</greater-than>
+			</and>
+		</condition>
+	</animation>
+
+	<!-- Rembrandt Light Cone -->
+	<model>
+	<path>LOWI_Streetlamp_light.ac</path>
+		<offsets>
+			<x-m> 1.700 </x-m>
+			<y-m> 0.000 </y-m>
+			<z-m> 6.137 </z-m>
+			<pitch-deg> 0.00</pitch-deg>
+			<heading-deg>180.00 </heading-deg>
+		</offsets>
+	</model>
+	
+	<!-- switched of for half light rembrand light
+	<model>
+	<path>LOWI_Streetlamp_light.ac</path>
+		<offsets>
+			<x-m>-1.700 </x-m>
+			<y-m> 0.000 </y-m>
+			<z-m> 6.137 </z-m>
+			<pitch-deg> 0.00</pitch-deg>
+			<heading-deg>0.00 </heading-deg>
+		</offsets>
+	</model>
+	-->
+
+<!-- Light bulb illu -->
+	<animation>
+	<type>material</type>
+	<object-name>Bulb.001</object-name>
+		<condition>
+			<greater-than>
+				<property>/sim/time/sun-angle-rad</property>
+				<value>1.45</value>
+			</greater-than>
+		</condition>
+		<emission>
+			<red>  1.0</red>
+			<green>0.8</green>
+			<blue> 0.1</blue>
+		</emission>
+	</animation>
+
+	<animation>
+	<type>material</type>
+	<object-name>Bulb.001</object-name>
+		<condition>
+			<less-than-equals>
+				<property>/sim/time/sun-angle-rad</property>
+				<value>1.45</value>
+			</less-than-equals>
+		</condition>
+		<emission>
+			<red>  0.0</red>
+			<green>0.0</green>
+			<blue> 0.0</blue>
+		</emission>
+	</animation>
+
+</PropertyList>

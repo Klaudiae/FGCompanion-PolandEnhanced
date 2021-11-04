@@ -1,0 +1,43 @@
+<PropertyList>
+ <path>stb.ac</path> 
+ <animation>
+  <type>timed</type>
+  <object-name>stb</object-name>
+  <object-name>stboff</object-name>
+  <min-m>0</min-m> 
+  <max-m>40000</max-m> 
+  <use-personality type="bool">true</use-personality>
+  <branch-duration-sec>0.1</branch-duration-sec>
+  <branch-duration-sec>0.1</branch-duration-sec>
+ </animation>
+  <animation>
+    <type>dist-scale</type>
+    <object-name>stb</object-name>
+    <interpolation>
+      <entry>
+        <ind>0</ind>
+        <dep>0.2</dep>
+      </entry>
+      <entry>
+        <ind>300</ind>
+        <dep>0.3</dep>
+      </entry>
+      <entry>
+        <ind>1500</ind>
+        <dep>0.4</dep>
+      </entry>
+      <entry>
+        <ind>4000</ind>
+        <dep>1</dep>
+      </entry>
+      <entry>
+        <ind>10000</ind>
+        <dep>2.5</dep>
+      </entry>
+      <entry>
+        <ind>90000</ind>
+        <dep>7.5</dep>
+      </entry>
+    </interpolation>
+  </animation>
+</PropertyList>

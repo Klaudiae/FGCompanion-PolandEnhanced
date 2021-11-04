@@ -1,0 +1,118 @@
+AC3Db
+MATERIAL "ac3dmat1" rgb 1 1 1  amb 0.2 0.2 0.2  emis 0 0 0  spec 0.2 0.2 0.2  shi 128  trans 0
+OBJECT world
+kids 6
+OBJECT poly
+name "rect"
+loc 9451.56 0 7534.86
+texture "D:/maka/FlightGear v20110502/data/Textures.high/Terrain/builtup.png"
+crease 45.000000
+numvert 4
+-4145.62 52.1016 2968.99
+4145.73 38.0576 2968.99
+4145.73 0 -2968.99
+-4444.14 0 -4536.23
+numsurf 1
+SURF 0x30
+mat 0
+refs 4
+0 3.43265 -8.44907
+1 8.02831 -12.5531
+2 11.5403 -10.3449
+3 6.94466 -6.24081
+kids 0
+OBJECT poly
+name "rect"
+loc 9451.56 0 1571.04
+texture "D:/maka/FlightGear v20110502/data/Textures.high/Terrain/irrcrop.png"
+crease 45.000000
+numvert 4
+-5302.41 0 -3522.24
+4145.73 23.9528 -2968.99
+4145.73 0 2994.83
+-4444.14 0 1427.59
+numsurf 1
+SURF 0x30
+mat 0
+refs 4
+3 0.314574 -3.98347
+2 0.901055 -6.67087
+1 4.78892 -6.11698
+0 4.48129 -3.00325
+kids 0
+OBJECT poly
+name "rect"
+loc 9451.33 0 -4366.27
+texture "D:/maka/FlightGear v20110502/data/Textures.high/Terrain/irrcrop.png"
+crease 45.000000
+numvert 4
+-5302.18 0 2415.07
+4145.96 23.9528 2968.32
+4145.96 49.6959 -2969.23
+-4145.39 0 -2969.23
+numsurf 1
+SURF 0x30
+mat 0
+refs 4
+0 4.48129 -3.00325
+1 4.78892 -6.11698
+2 8.65968 -5.56552
+3 8.0732 -2.87811
+kids 0
+OBJECT poly
+name "rect"
+loc 1160.21 0 7534.31
+texture "D:/maka/FlightGear v20110502/data/Textures.high/Terrain/builtup.png"
+crease 45.000000
+numvert 4
+-4145.73 0 -2968.44
+3847.21 0 -4535.67
+4145.73 52.1016 2969.55
+-4145.73 22.4473 2969.55
+numsurf 1
+SURF 0x30
+mat 0
+refs 4
+3 -1.16306 -4.34497
+2 3.43265 -8.44907
+1 6.94466 -6.24081
+0 2.34896 -2.13672
+kids 0
+OBJECT poly
+name "rect"
+loc 1160.21 0 1585.55
+texture "D:/maka/FlightGear v20110502/data/Textures.high/Terrain/irrcrop.png"
+crease 45.000000
+numvert 4
+-4145.73 0 2980.32
+3847.21 0 1413.08
+2988.94 0 -3536.75
+-4145.73 0 -2983.5
+numsurf 1
+SURF 0x30
+mat 0
+refs 4
+0 -0.271914 -1.29602
+1 0.314574 -3.98347
+2 4.48129 -3.00325
+3 3.61596 -0.742127
+kids 0
+OBJECT poly
+name "rect"
+loc 1160.21 0 -4363.2
+texture "D:/maka/FlightGear v20110502/data/Textures.high/Terrain/builtup.png"
+crease 45.000000
+numvert 4
+-4145.73 0 -2972.3
+4145.73 0 -2972.3
+2988.94 0 2412.01
+-4145.73 0 2965.25
+numsurf 1
+SURF 0x30
+mat 0
+refs 4
+3 5.87627 0.0811505
+2 10.472 -4.02294
+1 13.9837 -1.81486
+0 9.38802 2.28925
+kids 0

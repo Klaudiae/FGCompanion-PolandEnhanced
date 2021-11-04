@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PropertyList>
+
+	<path>lampaEPWR</path>
+	<animation>
+		<type>select</type>
+		<object-name>light-cone</object-name>
+		<object-name>light2</object-name>
+		<condition>
+			<property>controls/lighting/landing-lights[2]</property>
+		</condition>
+	</animation>
+	<animation>
+		<type>light</type>
+		<light-type>point</light-type>
+		<name>light2</name>
+		<object-name>light-cone</object-name>
+		<nopreview/>
+		<position><x>0</x><y>20</y><z>0</z></position>
+		<ambient><r>0.95</r><g>0.9</g><b>0.9</b><a>1</a></ambient>
+		<diffuse><r>0.95</r><g>0.9</g><b>0.9</b><a>1</a></diffuse>
+		<specular><r>0.95</r><g>0.9</g><b>0.9</b><a>1</a></specular>
+		<attenuation><c>1</c><l>0.8</l><q>2</q></attenuation>
+		<cutoff>30</cutoff>
+		<near-m>1</near-m>
+		<far-m>30</far-m>
+	</animation>
+</PropertyList>

@@ -1,0 +1,25 @@
+<PropertyList>
+ <path>heli.ac</path> 
+ <animation>
+  <type>timed</type>
+  <object-name>1</object-name>
+  <object-name>2</object-name>
+  <min-m>0</min-m> 
+  <max-m>1000</max-m> 
+  <use-personality type="bool">true</use-personality>
+  <branch-duration-sec>0.2</branch-duration-sec>
+  <branch-duration-sec>0.2</branch-duration-sec>
+ </animation>
+ <animation>
+  <type>range</type>
+  <object-name>1</object-name>
+  <min-m>0</min-m>
+  <max-m>1000</max-m>
+ </animation>
+ <animation>
+  <type>range</type>
+  <object-name>2</object-name>
+  <min-m>0</min-m>
+  <max-m>1000</max-m>
+ </animation>
+</PropertyList>
